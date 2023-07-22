@@ -54,4 +54,3 @@ I'm a boring developer, who happens to do something, sometimes.
 - [{{.Login}}]({{.URL}})
 {{- end}}
 {{ end }}
->>>>>>> edb76ea (Updated the template)
