@@ -45,4 +45,3 @@ I'm a boring developer, who happens to do something, sometimes.
 - [testitesti22](https://github.com/testitesti22)
 - [Chaithu12305](https://github.com/Chaithu12305)
 
->>>>>>> edb76ea (Updated the template)
