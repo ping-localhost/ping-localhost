@@ -33,7 +33,7 @@ I'm a boring developer, who happens to do something, sometimes.
 - [5axes/Calibration-Shapes](https://github.com/5axes/Calibration-Shapes) - A Cura plugin that adds simple shapes (cube, cylinder, tube)  and also 24 Calibration and test parts &#43; 7 Postprocessing scripts (5 months ago)
 - [go-rod/stealth](https://github.com/go-rod/stealth) - anti-bot-detection with rod (6 months ago)
 - [umutbasal/device-detector-go](https://github.com/umutbasal/device-detector-go) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. https://pkg.go.dev/github.com/umutbasal/device-detector-go (6 months ago)
-- [gofiber/recipes](https://github.com/gofiber/recipes) - 📁 Examples for 🚀 Fiber (6 months ago)
+- [gofiber/recipes](https://github.com/gofiber/recipes) - 📁 Examples for 🚀 Fiber (7 months ago)
 
 
 
