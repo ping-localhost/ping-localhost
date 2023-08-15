@@ -29,7 +29,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### ⭐ Recent Stars
 
-- [TobiasS1402/appieSniper](https://github.com/TobiasS1402/appieSniper) - appieSniper is a python program to get notifications on overblijvers at nearby Albert Heijn supermarkets, this way you can claim you package and enjoy the discounts! - The software runs on multiple available API and GraphQL endpoints from Albert Heijn. (1 month ago)
+- [TobiasS1402/appieSniper](https://github.com/TobiasS1402/appieSniper) - appieSniper is a python program to get notifications on overblijvers at nearby Albert Heijn supermarkets, this way you can claim you package and enjoy the discounts! - The software runs on multiple available API and GraphQL endpoints from Albert Heijn. (2 months ago)
 - [5axes/Calibration-Shapes](https://github.com/5axes/Calibration-Shapes) - A Cura plugin that adds simple shapes (cube, cylinder, tube)  and also 24 Calibration and test parts &#43; 7 Postprocessing scripts (6 months ago)
 - [go-rod/stealth](https://github.com/go-rod/stealth) - anti-bot-detection with rod (7 months ago)
 - [umutbasal/device-detector-go](https://github.com/umutbasal/device-detector-go) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. https://pkg.go.dev/github.com/umutbasal/device-detector-go (7 months ago)
