@@ -23,13 +23,13 @@ I'm a boring developer, who happens to do something, sometimes.
 - [Allow Symfony 6](https://github.com/hostnet/form-handler-component/pull/36) on [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) (3 months ago)
 - [Added heading for packages &#43; added Fiber example](https://github.com/hibiken/asynqmon/pull/284) on [hibiken/asynqmon](https://github.com/hibiken/asynqmon) (7 months ago)
 - [Ensure proper replacement](https://github.com/Selvatico/go-mocket/pull/31) on [Selvatico/go-mocket](https://github.com/Selvatico/go-mocket) (1 year ago)
-- [Expose some more device properties &#43; clean up](https://github.com/zachcheatham/ha-omada/pull/24) on [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada) (1 year ago)
+- [Expose some more device properties &#43; clean up](https://github.com/zachcheatham/ha-omada/pull/24) on [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada) (2 years ago)
 
 
 
 #### ⭐ Recent Stars
 
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay. (5 days ago)
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay. (6 days ago)
 - [TobiasS1402/appieSniper](https://github.com/TobiasS1402/appieSniper) - appieSniper is a python program to get notifications on overblijvers at nearby Albert Heijn supermarkets, this way you can claim you package and enjoy the discounts! - The software runs on multiple available API and GraphQL endpoints from Albert Heijn. (2 months ago)
 - [5axes/Calibration-Shapes](https://github.com/5axes/Calibration-Shapes) - A Cura plugin that adds simple shapes (cube, cylinder, tube)  and also 24 Calibration and test parts &#43; 7 Postprocessing scripts (6 months ago)
 - [go-rod/stealth](https://github.com/go-rod/stealth) - anti-bot-detection with rod (7 months ago)
