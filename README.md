@@ -21,7 +21,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 - [Allow Symfony 6 and PHP 8](https://github.com/hostnet/form-handler-bundle/pull/76) on [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) (3 months ago)
 - [Allow Symfony 6](https://github.com/hostnet/form-handler-component/pull/36) on [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) (3 months ago)
-- [Added heading for packages &#43; added Fiber example](https://github.com/hibiken/asynqmon/pull/284) on [hibiken/asynqmon](https://github.com/hibiken/asynqmon) (7 months ago)
+- [Added heading for packages &#43; added Fiber example](https://github.com/hibiken/asynqmon/pull/284) on [hibiken/asynqmon](https://github.com/hibiken/asynqmon) (8 months ago)
 - [Ensure proper replacement](https://github.com/Selvatico/go-mocket/pull/31) on [Selvatico/go-mocket](https://github.com/Selvatico/go-mocket) (1 year ago)
 - [Expose some more device properties &#43; clean up](https://github.com/zachcheatham/ha-omada/pull/24) on [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada) (2 years ago)
 
