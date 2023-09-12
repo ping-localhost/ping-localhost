@@ -30,7 +30,7 @@ I'm a boring developer, who happens to do something, sometimes.
 #### ⭐ Recent Stars
 
 - [Clooos/Bubble](https://github.com/Clooos/Bubble) - A dark minimalist theme with a mobile first approach for Home Assistant (1 week ago)
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay. (3 weeks ago)
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay. (4 weeks ago)
 - [TobiasS1402/appieSniper](https://github.com/TobiasS1402/appieSniper) - appieSniper is a python program to get notifications on overblijvers at nearby Albert Heijn supermarkets, this way you can claim you package and enjoy the discounts! - The software runs on multiple available API and GraphQL endpoints from Albert Heijn. (2 months ago)
 - [5axes/Calibration-Shapes](https://github.com/5axes/Calibration-Shapes) - A Cura plugin that adds simple shapes (cube, cylinder, tube)  and also 24 Calibration and test parts &#43; 7 Postprocessing scripts (7 months ago)
 - [go-rod/stealth](https://github.com/go-rod/stealth) - anti-bot-detection with rod (8 months ago)
