@@ -5,6 +5,11 @@ I'm a boring developer, who happens to do something, sometimes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ping-localhost&langs_count=8&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+#### 👷 Check out what I'm currently working on
+
+- [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) - Provide an easier way of handling forms in actions (4 months ago)
+- [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) - Contains form handling logic (4 months ago)
+
 
 
 #### 🌱 My latest projects
@@ -14,6 +19,11 @@ I'm a boring developer, who happens to do something, sometimes.
 - [ping-localhost/anonymizer-bundle](https://github.com/ping-localhost/anonymizer-bundle) - An annotation-based bundle to anonymize sensitive data.
 
 
+
+#### 🔭 Latest releases I've contributed to
+
+- [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) ([1.7.4](https://github.com/hostnet/form-handler-bundle/releases/tag/1.7.4), 1 day ago) - Provide an easier way of handling forms in actions
+- [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) ([1.7.3](https://github.com/hostnet/form-handler-component/releases/tag/1.7.3), 1 day ago) - Contains form handling logic
 
 
 
