@@ -22,8 +22,8 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) ([1.7.4](https://github.com/hostnet/form-handler-bundle/releases/tag/1.7.4), 1 day ago) - Provide an easier way of handling forms in actions
-- [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) ([1.7.3](https://github.com/hostnet/form-handler-component/releases/tag/1.7.3), 1 day ago) - Contains form handling logic
+- [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) ([1.7.4](https://github.com/hostnet/form-handler-bundle/releases/tag/1.7.4), 2 days ago) - Provide an easier way of handling forms in actions
+- [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) ([1.7.3](https://github.com/hostnet/form-handler-component/releases/tag/1.7.3), 2 days ago) - Contains form handling logic
 
 
 
@@ -31,7 +31,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 - [Allow Symfony 6 and PHP 8](https://github.com/hostnet/form-handler-bundle/pull/76) on [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) (4 months ago)
 - [Allow Symfony 6](https://github.com/hostnet/form-handler-component/pull/36) on [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) (4 months ago)
-- [Added heading for packages &#43; added Fiber example](https://github.com/hibiken/asynqmon/pull/284) on [hibiken/asynqmon](https://github.com/hibiken/asynqmon) (8 months ago)
+- [Added heading for packages &#43; added Fiber example](https://github.com/hibiken/asynqmon/pull/284) on [hibiken/asynqmon](https://github.com/hibiken/asynqmon) (9 months ago)
 - [Ensure proper replacement](https://github.com/Selvatico/go-mocket/pull/31) on [Selvatico/go-mocket](https://github.com/Selvatico/go-mocket) (1 year ago)
 - [Expose some more device properties &#43; clean up](https://github.com/zachcheatham/ha-omada/pull/24) on [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada) (2 years ago)
 
@@ -39,7 +39,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### ⭐ Recent Stars
 
-- [Clooos/Bubble](https://github.com/Clooos/Bubble) - A dark minimalist theme with a mobile first approach for Home Assistant (2 weeks ago)
+- [Clooos/Bubble](https://github.com/Clooos/Bubble) - A dark minimalist theme with a mobile first approach for Home Assistant (3 weeks ago)
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - OpenReplay is developer-friendly, self-hosted session replay. (1 month ago)
 - [TobiasS1402/appieSniper](https://github.com/TobiasS1402/appieSniper) - appieSniper is a python program to get notifications on overblijvers at nearby Albert Heijn supermarkets, this way you can claim you package and enjoy the discounts! - The software runs on multiple available API and GraphQL endpoints from Albert Heijn. (3 months ago)
 - [5axes/Calibration-Shapes](https://github.com/5axes/Calibration-Shapes) - A Cura plugin that adds simple shapes (cube, cylinder, tube)  and also 24 Calibration and test parts &#43; 7 Postprocessing scripts (7 months ago)
