@@ -22,14 +22,14 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) ([1.7.4](https://github.com/hostnet/form-handler-bundle/releases/tag/1.7.4), 2 months ago) - Provide an easier way of handling forms in actions
-- [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) ([1.7.3](https://github.com/hostnet/form-handler-component/releases/tag/1.7.3), 2 months ago) - Contains form handling logic
+- [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) ([1.7.4](https://github.com/hostnet/form-handler-bundle/releases/tag/1.7.4), 3 months ago) - Provide an easier way of handling forms in actions
+- [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) ([1.7.3](https://github.com/hostnet/form-handler-component/releases/tag/1.7.3), 3 months ago) - Contains form handling logic
 
 
 
 #### 🔨 My recent Pull Requests
 
-- [Allow TRUNCATE for MySQL](https://github.com/golang-migrate/migrate/pull/1010) on [golang-migrate/migrate](https://github.com/golang-migrate/migrate) (6 days ago)
+- [Allow TRUNCATE for MySQL](https://github.com/golang-migrate/migrate/pull/1010) on [golang-migrate/migrate](https://github.com/golang-migrate/migrate) (1 week ago)
 - [Allow Symfony 6 and PHP 8](https://github.com/hostnet/form-handler-bundle/pull/76) on [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) (7 months ago)
 - [Allow Symfony 6](https://github.com/hostnet/form-handler-component/pull/36) on [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) (7 months ago)
 - [Added heading for packages &#43; added Fiber example](https://github.com/hibiken/asynqmon/pull/284) on [hibiken/asynqmon](https://github.com/hibiken/asynqmon) (11 months ago)
