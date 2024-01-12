@@ -29,7 +29,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔨 My recent Pull Requests
 
-- [Allow TRUNCATE for MySQL](https://github.com/golang-migrate/migrate/pull/1010) on [golang-migrate/migrate](https://github.com/golang-migrate/migrate) (4 weeks ago)
+- [Allow TRUNCATE for MySQL](https://github.com/golang-migrate/migrate/pull/1010) on [golang-migrate/migrate](https://github.com/golang-migrate/migrate) (1 month ago)
 - [Allow Symfony 6 and PHP 8](https://github.com/hostnet/form-handler-bundle/pull/76) on [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) (8 months ago)
 - [Allow Symfony 6](https://github.com/hostnet/form-handler-component/pull/36) on [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) (8 months ago)
 - [Added heading for packages &#43; added Fiber example](https://github.com/hibiken/asynqmon/pull/284) on [hibiken/asynqmon](https://github.com/hibiken/asynqmon) (1 year ago)
@@ -41,8 +41,8 @@ I'm a boring developer, who happens to do something, sometimes.
 
 - [svejnohatomas/poc-artillery.io](https://github.com/svejnohatomas/poc-artillery.io) - A Proof of Concept for using Artillery for backend performance testing, publishing metrics to InfluxDB 2.0 through Telegraf, and displaying them using Grafana. (2 months ago)
 - [Clooos/Bubble](https://github.com/Clooos/Bubble) - A dark minimalist theme with a mobile first approach for Home Assistant (4 months ago)
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - OpenReplay is developer-friendly, self-hosted session replay. (4 months ago)
-- [TobiasS1402/appieSniper](https://github.com/TobiasS1402/appieSniper) - appieSniper is a python program to get notifications on overblijvers at nearby Albert Heijn supermarkets, this way you can claim you package and enjoy the discounts! - The software runs on multiple available API and GraphQL endpoints from Albert Heijn. (6 months ago)
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - OpenReplay is developer-friendly, self-hosted session replay. (5 months ago)
+- [TobiasS1402/appieSniper](https://github.com/TobiasS1402/appieSniper) - appieSniper is a python program to get notifications on overblijvers at nearby Albert Heijn supermarkets, this way you can claim you package and enjoy the discounts! - The software runs on multiple available API and GraphQL endpoints from Albert Heijn. (7 months ago)
 - [5axes/Calibration-Shapes](https://github.com/5axes/Calibration-Shapes) - A Cura plugin that adds simple shapes (cube, cylinder, tube)  and also 24 Calibration and test parts &#43; 7 Postprocessing scripts (11 months ago)
 
 
