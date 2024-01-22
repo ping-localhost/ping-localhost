@@ -7,7 +7,7 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (3 days ago)
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (4 days ago)
 - [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) - Provide an easier way of handling forms in actions (8 months ago)
 - [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) - Contains form handling logic (8 months ago)
 
@@ -23,7 +23,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.8.5](https://github.com/gethomepage/homepage/releases/tag/v0.8.5), 1 day ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.8.6](https://github.com/gethomepage/homepage/releases/tag/v0.8.6), 1 day ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) ([1.7.4](https://github.com/hostnet/form-handler-bundle/releases/tag/1.7.4), 4 months ago) - Provide an easier way of handling forms in actions
 - [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) ([1.7.3](https://github.com/hostnet/form-handler-component/releases/tag/1.7.3), 4 months ago) - Contains form handling logic
 
@@ -31,8 +31,8 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔨 My recent Pull Requests
 
-- [Feature: Netdata service widget](https://github.com/gethomepage/homepage/pull/2672) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (4 days ago)
-- [Create debian-11-vm.sh](https://github.com/tteck/Proxmox/pull/2355) on [tteck/Proxmox](https://github.com/tteck/Proxmox) (5 days ago)
+- [Feature: Netdata service widget](https://github.com/gethomepage/homepage/pull/2672) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (5 days ago)
+- [Create debian-11-vm.sh](https://github.com/tteck/Proxmox/pull/2355) on [tteck/Proxmox](https://github.com/tteck/Proxmox) (6 days ago)
 - [Allow TRUNCATE for MySQL](https://github.com/golang-migrate/migrate/pull/1010) on [golang-migrate/migrate](https://github.com/golang-migrate/migrate) (1 month ago)
 - [Allow Symfony 6 and PHP 8](https://github.com/hostnet/form-handler-bundle/pull/76) on [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) (8 months ago)
 - [Allow Symfony 6](https://github.com/hostnet/form-handler-component/pull/36) on [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) (8 months ago)
@@ -41,7 +41,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### ⭐ Recent Stars
 
-- [trinib/AdGuard-WireGuard-Unbound-DNScrypt](https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt) - Linux ultimate self-hosted network security guide ║ Linux 终极自托管网络安全指南 ║ Guía definitiva de seguridad de red autohospedada de Linux ║ लिनक्स परम स्व-होस्टेड नेटवर्क सुरक्षा गाइड ║ Окончательное руководство по безопасности собственной сети Linux (1 day ago)
+- [trinib/AdGuard-WireGuard-Unbound-DNScrypt](https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt) - Linux ultimate self-hosted network security guide ║ Linux 终极自托管网络安全指南 ║ Guía definitiva de seguridad de red autohospedada de Linux ║ लिनक्स परम स्व-होस्टेड नेटवर्क सुरक्षा गाइड ║ Окончательное руководство по безопасности собственной сети Linux (2 days ago)
 - [svejnohatomas/poc-artillery.io](https://github.com/svejnohatomas/poc-artillery.io) - A Proof of Concept for using Artillery for backend performance testing, publishing metrics to InfluxDB 2.0 through Telegraf, and displaying them using Grafana. (2 months ago)
 - [Clooos/Bubble](https://github.com/Clooos/Bubble) - A dark minimalist theme with a mobile first approach for Home Assistant (4 months ago)
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can &#34;truly&#34; self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product. (5 months ago)
