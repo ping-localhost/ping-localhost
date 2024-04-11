@@ -24,7 +24,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.8.11](https://github.com/gethomepage/homepage/releases/tag/v0.8.11), 2 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.8.11](https://github.com/gethomepage/homepage/releases/tag/v0.8.11), 3 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) ([1.7.4](https://github.com/hostnet/form-handler-bundle/releases/tag/1.7.4), 6 months ago) - Provide an easier way of handling forms in actions
 - [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) ([1.7.3](https://github.com/hostnet/form-handler-component/releases/tag/1.7.3), 6 months ago) - Contains form handling logic
 
@@ -36,14 +36,14 @@ I'm a boring developer, who happens to do something, sometimes.
 - [Added additional dropmail.me domains](https://github.com/disposable-email-domains/disposable-email-domains/pull/446) on [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) (1 month ago)
 - [Feature: Netdata service widget](https://github.com/gethomepage/homepage/pull/2672) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (2 months ago)
 - [Create debian-11-vm.sh](https://github.com/tteck/Proxmox/pull/2355) on [tteck/Proxmox](https://github.com/tteck/Proxmox) (2 months ago)
-- [Allow TRUNCATE for MySQL](https://github.com/golang-migrate/migrate/pull/1010) on [golang-migrate/migrate](https://github.com/golang-migrate/migrate) (3 months ago)
+- [Allow TRUNCATE for MySQL](https://github.com/golang-migrate/migrate/pull/1010) on [golang-migrate/migrate](https://github.com/golang-migrate/migrate) (4 months ago)
 
 
 
 #### ⭐ Recent Stars
 
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (5 days ago)
-- [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (6 days ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (6 days ago)
+- [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (1 week ago)
 - [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices. (1 month ago)
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets (1 month ago)
 - [skrashevich/double-take](https://github.com/skrashevich/double-take) - Unified UI and API for processing and training images for facial recognition. (2 months ago)
