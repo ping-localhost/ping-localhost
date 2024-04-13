@@ -7,7 +7,7 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains (1 month ago)
+- [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains (2 months ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (2 months ago)
 - [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) - Provide an easier way of handling forms in actions (11 months ago)
 - [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) - Contains form handling logic (11 months ago)
@@ -24,7 +24,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.8.11](https://github.com/gethomepage/homepage/releases/tag/v0.8.11), 4 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.8.11](https://github.com/gethomepage/homepage/releases/tag/v0.8.11), 5 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) ([1.7.4](https://github.com/hostnet/form-handler-bundle/releases/tag/1.7.4), 6 months ago) - Provide an easier way of handling forms in actions
 - [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) ([1.7.3](https://github.com/hostnet/form-handler-component/releases/tag/1.7.3), 6 months ago) - Contains form handling logic
 
@@ -32,8 +32,8 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔨 My recent Pull Requests
 
-- [Updated basically everything](https://github.com/rocketlaunchr/anti-disposable-email/pull/3) on [rocketlaunchr/anti-disposable-email](https://github.com/rocketlaunchr/anti-disposable-email) (1 month ago)
-- [Added additional dropmail.me domains](https://github.com/disposable-email-domains/disposable-email-domains/pull/446) on [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) (1 month ago)
+- [Updated basically everything](https://github.com/rocketlaunchr/anti-disposable-email/pull/3) on [rocketlaunchr/anti-disposable-email](https://github.com/rocketlaunchr/anti-disposable-email) (2 months ago)
+- [Added additional dropmail.me domains](https://github.com/disposable-email-domains/disposable-email-domains/pull/446) on [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) (2 months ago)
 - [Feature: Netdata service widget](https://github.com/gethomepage/homepage/pull/2672) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (2 months ago)
 - [Create debian-11-vm.sh](https://github.com/tteck/Proxmox/pull/2355) on [tteck/Proxmox](https://github.com/tteck/Proxmox) (2 months ago)
 - [Allow TRUNCATE for MySQL](https://github.com/golang-migrate/migrate/pull/1010) on [golang-migrate/migrate](https://github.com/golang-migrate/migrate) (4 months ago)
