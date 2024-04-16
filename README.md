@@ -34,7 +34,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 - [Updated basically everything](https://github.com/rocketlaunchr/anti-disposable-email/pull/3) on [rocketlaunchr/anti-disposable-email](https://github.com/rocketlaunchr/anti-disposable-email) (2 months ago)
 - [Added additional dropmail.me domains](https://github.com/disposable-email-domains/disposable-email-domains/pull/446) on [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) (2 months ago)
-- [Feature: Netdata service widget](https://github.com/gethomepage/homepage/pull/2672) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (2 months ago)
+- [Feature: Netdata service widget](https://github.com/gethomepage/homepage/pull/2672) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (3 months ago)
 - [Create debian-11-vm.sh](https://github.com/tteck/Proxmox/pull/2355) on [tteck/Proxmox](https://github.com/tteck/Proxmox) (3 months ago)
 - [Allow TRUNCATE for MySQL](https://github.com/golang-migrate/migrate/pull/1010) on [golang-migrate/migrate](https://github.com/golang-migrate/migrate) (4 months ago)
 
