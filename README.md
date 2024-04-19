@@ -24,7 +24,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.8.12](https://github.com/gethomepage/homepage/releases/tag/v0.8.12), 1 day ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.8.12](https://github.com/gethomepage/homepage/releases/tag/v0.8.12), 2 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) ([1.7.4](https://github.com/hostnet/form-handler-bundle/releases/tag/1.7.4), 7 months ago) - Provide an easier way of handling forms in actions
 - [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) ([1.7.3](https://github.com/hostnet/form-handler-component/releases/tag/1.7.3), 7 months ago) - Contains form handling logic
 
@@ -32,7 +32,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔨 My recent Pull Requests
 
-- [Removed commited `.phpunit.result.cache`](https://github.com/florianv/symfony-swap/pull/55) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (2 days ago)
+- [Removed commited `.phpunit.result.cache`](https://github.com/florianv/symfony-swap/pull/55) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (3 days ago)
 - [Updated basically everything](https://github.com/rocketlaunchr/anti-disposable-email/pull/3) on [rocketlaunchr/anti-disposable-email](https://github.com/rocketlaunchr/anti-disposable-email) (2 months ago)
 - [Added additional dropmail.me domains](https://github.com/disposable-email-domains/disposable-email-domains/pull/446) on [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) (2 months ago)
 - [Feature: Netdata service widget](https://github.com/gethomepage/homepage/pull/2672) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (3 months ago)
@@ -42,7 +42,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### ⭐ Recent Stars
 
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (1 week ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (2 weeks ago)
 - [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (2 weeks ago)
 - [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices. (1 month ago)
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets (1 month ago)
