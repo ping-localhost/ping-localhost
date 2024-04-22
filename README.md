@@ -24,7 +24,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.8.12](https://github.com/gethomepage/homepage/releases/tag/v0.8.12), 4 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.8.12](https://github.com/gethomepage/homepage/releases/tag/v0.8.12), 5 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) ([1.7.4](https://github.com/hostnet/form-handler-bundle/releases/tag/1.7.4), 7 months ago) - Provide an easier way of handling forms in actions
 - [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) ([1.7.3](https://github.com/hostnet/form-handler-component/releases/tag/1.7.3), 7 months ago) - Contains form handling logic
 
@@ -32,7 +32,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔨 My recent Pull Requests
 
-- [Removed commited `.phpunit.result.cache`](https://github.com/florianv/symfony-swap/pull/55) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (5 days ago)
+- [Removed commited `.phpunit.result.cache`](https://github.com/florianv/symfony-swap/pull/55) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (6 days ago)
 - [Updated basically everything](https://github.com/rocketlaunchr/anti-disposable-email/pull/3) on [rocketlaunchr/anti-disposable-email](https://github.com/rocketlaunchr/anti-disposable-email) (2 months ago)
 - [Added additional dropmail.me domains](https://github.com/disposable-email-domains/disposable-email-domains/pull/446) on [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) (2 months ago)
 - [Feature: Netdata service widget](https://github.com/gethomepage/homepage/pull/2672) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (3 months ago)
