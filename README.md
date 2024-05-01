@@ -24,9 +24,9 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.8.12](https://github.com/gethomepage/homepage/releases/tag/v0.8.12), 1 week ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) ([1.7.4](https://github.com/hostnet/form-handler-component/releases/tag/1.7.4), 1 day ago) - Contains form handling logic
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.8.12](https://github.com/gethomepage/homepage/releases/tag/v0.8.12), 2 weeks ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) ([1.7.4](https://github.com/hostnet/form-handler-bundle/releases/tag/1.7.4), 7 months ago) - Provide an easier way of handling forms in actions
-- [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) ([1.7.3](https://github.com/hostnet/form-handler-component/releases/tag/1.7.3), 7 months ago) - Contains form handling logic
 
 
 
