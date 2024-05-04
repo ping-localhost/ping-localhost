@@ -24,9 +24,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hostnet/form-handler-component](https://github.com/hostnet/form-handler-component) ([1.7.4](https://github.com/hostnet/form-handler-component/releases/tag/1.7.4), 3 days ago) - Contains form handling logic
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.8.12](https://github.com/gethomepage/homepage/releases/tag/v0.8.12), 2 weeks ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [hostnet/form-handler-bundle](https://github.com/hostnet/form-handler-bundle) ([1.7.4](https://github.com/hostnet/form-handler-bundle/releases/tag/1.7.4), 7 months ago) - Provide an easier way of handling forms in actions
 
 
 
@@ -43,7 +41,7 @@ I'm a boring developer, who happens to do something, sometimes.
 #### ⭐ Recent Stars
 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (4 weeks ago)
-- [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (4 weeks ago)
+- [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (1 month ago)
 - [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices. (1 month ago)
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets (2 months ago)
 - [skrashevich/double-take](https://github.com/skrashevich/double-take) - Unified UI and API for processing and training images for facial recognition. (3 months ago)
