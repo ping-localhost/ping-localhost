@@ -22,7 +22,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.8.13](https://github.com/gethomepage/homepage/releases/tag/v0.8.13), 2 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.8.13](https://github.com/gethomepage/homepage/releases/tag/v0.8.13), 3 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 
 
 
