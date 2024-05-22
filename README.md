@@ -7,7 +7,7 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [ping-localhost/foobar](https://github.com/ping-localhost/foobar) - minimal reproducible example for golangci-lint (1 day ago)
+- [ping-localhost/foobar](https://github.com/ping-localhost/foobar) - minimal reproducible example for golangci-lint (2 days ago)
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains (3 months ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (4 months ago)
 
