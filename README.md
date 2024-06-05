@@ -7,8 +7,8 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (5 days ago)
-- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) - An open source TRISA node for use in Travel Rule information transfers (6 days ago)
+- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (6 days ago)
+- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) - An open source TRISA node for use in Travel Rule information transfers (1 week ago)
 - [ping-localhost/foobar](https://github.com/ping-localhost/foobar) - minimal reproducible example for golangci-lint (2 weeks ago)
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains (3 months ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (4 months ago)
@@ -26,16 +26,16 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.1](https://github.com/gethomepage/homepage/releases/tag/v0.9.1), 1 day ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.2](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.2), 5 days ago) - Lovelace Companion card for sensor.seventeentrack
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.1](https://github.com/gethomepage/homepage/releases/tag/v0.9.1), 2 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.2](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.2), 6 days ago) - Lovelace Companion card for sensor.seventeentrack
 
 
 
 #### 🔨 My recent Pull Requests
 
-- [Ensure console.log doesn&#39;t break script 🔧](https://github.com/ping-localhost/seventeen-track-card/pull/12) on [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) (5 days ago)
-- [Updated info.md &#43; README.md](https://github.com/ping-localhost/seventeen-track-card/pull/11) on [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) (5 days ago)
-- [Update README.md](https://github.com/ping-localhost/seventeen-track-card/pull/10) on [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) (5 days ago)
+- [Ensure console.log doesn&#39;t break script 🔧](https://github.com/ping-localhost/seventeen-track-card/pull/12) on [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) (6 days ago)
+- [Updated info.md &#43; README.md](https://github.com/ping-localhost/seventeen-track-card/pull/11) on [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) (6 days ago)
+- [Update README.md](https://github.com/ping-localhost/seventeen-track-card/pull/10) on [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) (6 days ago)
 - [Updated OpenAPI definitions](https://github.com/trisacrypto/envoy/pull/112) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (1 week ago)
 - [Removed commited `.phpunit.result.cache`](https://github.com/florianv/symfony-swap/pull/55) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (1 month ago)
 
@@ -46,7 +46,7 @@ I'm a boring developer, who happens to do something, sometimes.
 - [bitluni/PicoWMatrixSceenShare](https://github.com/bitluni/PicoWMatrixSceenShare) -  (3 weeks ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (2 months ago)
 - [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (2 months ago)
-- [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices. (2 months ago)
+- [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices. (3 months ago)
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets (3 months ago)
 
 
