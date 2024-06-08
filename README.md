@@ -26,7 +26,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.2](https://github.com/gethomepage/homepage/releases/tag/v0.9.2), 1 day ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.2](https://github.com/gethomepage/homepage/releases/tag/v0.9.2), 2 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.2](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.2), 1 week ago) - Lovelace Companion card for sensor.seventeentrack
 
 
@@ -43,7 +43,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### ⭐ Recent Stars
 
-- [bitluni/PicoWMatrixSceenShare](https://github.com/bitluni/PicoWMatrixSceenShare) -  (3 weeks ago)
+- [bitluni/PicoWMatrixSceenShare](https://github.com/bitluni/PicoWMatrixSceenShare) -  (4 weeks ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (2 months ago)
 - [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (2 months ago)
 - [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices. (3 months ago)
