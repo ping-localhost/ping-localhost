@@ -26,7 +26,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.2](https://github.com/gethomepage/homepage/releases/tag/v0.9.2), 2 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.2](https://github.com/gethomepage/homepage/releases/tag/v0.9.2), 3 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.2](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.2), 1 week ago) - Lovelace Companion card for sensor.seventeentrack
 
 
