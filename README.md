@@ -9,7 +9,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (1 week ago)
 - [trisacrypto/envoy](https://github.com/trisacrypto/envoy) - An open source TRISA node for use in Travel Rule information transfers (1 week ago)
-- [ping-localhost/foobar](https://github.com/ping-localhost/foobar) - minimal reproducible example for golangci-lint (2 weeks ago)
+- [ping-localhost/foobar](https://github.com/ping-localhost/foobar) - minimal reproducible example for golangci-lint (3 weeks ago)
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains (3 months ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (4 months ago)
 
@@ -26,7 +26,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.2](https://github.com/gethomepage/homepage/releases/tag/v0.9.2), 3 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.2](https://github.com/gethomepage/homepage/releases/tag/v0.9.2), 4 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.2](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.2), 1 week ago) - Lovelace Companion card for sensor.seventeentrack
 
 
@@ -43,7 +43,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### ⭐ Recent Stars
 
-- [bitluni/PicoWMatrixSceenShare](https://github.com/bitluni/PicoWMatrixSceenShare) -  (4 weeks ago)
+- [bitluni/PicoWMatrixSceenShare](https://github.com/bitluni/PicoWMatrixSceenShare) -  (1 month ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (2 months ago)
 - [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (2 months ago)
 - [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices. (3 months ago)
