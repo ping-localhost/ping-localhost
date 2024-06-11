@@ -26,7 +26,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.2](https://github.com/gethomepage/homepage/releases/tag/v0.9.2), 4 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.2](https://github.com/gethomepage/homepage/releases/tag/v0.9.2), 5 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.2](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.2), 1 week ago) - Lovelace Companion card for sensor.seventeentrack
 
 
@@ -36,7 +36,7 @@ I'm a boring developer, who happens to do something, sometimes.
 - [Ensure console.log doesn&#39;t break script 🔧](https://github.com/ping-localhost/seventeen-track-card/pull/12) on [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) (1 week ago)
 - [Updated info.md &#43; README.md](https://github.com/ping-localhost/seventeen-track-card/pull/11) on [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) (1 week ago)
 - [Update README.md](https://github.com/ping-localhost/seventeen-track-card/pull/10) on [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) (1 week ago)
-- [Updated OpenAPI definitions](https://github.com/trisacrypto/envoy/pull/112) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (1 week ago)
+- [Updated OpenAPI definitions](https://github.com/trisacrypto/envoy/pull/112) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (2 weeks ago)
 - [Removed commited `.phpunit.result.cache`](https://github.com/florianv/symfony-swap/pull/55) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (1 month ago)
 
 
