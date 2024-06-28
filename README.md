@@ -35,7 +35,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 - [Expanded OpenAPI definition further](https://github.com/trisacrypto/envoy/pull/138) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (1 week ago)
 - [Extended specification further](https://github.com/ping-localhost/envoy/pull/1) on [ping-localhost/envoy](https://github.com/ping-localhost/envoy) (1 week ago)
-- [Updated OpenAPI specifications](https://github.com/trisacrypto/envoy/pull/131) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (1 week ago)
+- [Updated OpenAPI specifications](https://github.com/trisacrypto/envoy/pull/131) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (2 weeks ago)
 - [Ensure console.log doesn&#39;t break script 🔧](https://github.com/ping-localhost/seventeen-track-card/pull/12) on [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) (4 weeks ago)
 - [Updated info.md &#43; README.md](https://github.com/ping-localhost/seventeen-track-card/pull/11) on [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) (4 weeks ago)
 
