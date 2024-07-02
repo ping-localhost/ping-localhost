@@ -7,7 +7,7 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) - An open source TRISA node for use in Travel Rule information transfers (3 days ago)
+- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) - An open source TRISA node for use in Travel Rule information transfers (4 days ago)
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (1 month ago)
 - [ping-localhost/foobar](https://github.com/ping-localhost/foobar) - minimal reproducible example for golangci-lint (1 month ago)
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains (4 months ago)
@@ -34,7 +34,7 @@ I'm a boring developer, who happens to do something, sometimes.
 #### 🔨 My recent Pull Requests
 
 - [Expanded OpenAPI definition further](https://github.com/trisacrypto/envoy/pull/138) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (1 week ago)
-- [Extended specification further](https://github.com/ping-localhost/envoy/pull/1) on [ping-localhost/envoy](https://github.com/ping-localhost/envoy) (1 week ago)
+- [Extended specification further](https://github.com/ping-localhost/envoy/pull/1) on [ping-localhost/envoy](https://github.com/ping-localhost/envoy) (2 weeks ago)
 - [Updated OpenAPI specifications](https://github.com/trisacrypto/envoy/pull/131) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (2 weeks ago)
 - [Ensure console.log doesn&#39;t break script 🔧](https://github.com/ping-localhost/seventeen-track-card/pull/12) on [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) (1 month ago)
 - [Updated info.md &#43; README.md](https://github.com/ping-localhost/seventeen-track-card/pull/11) on [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) (1 month ago)
