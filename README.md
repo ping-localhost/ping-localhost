@@ -36,7 +36,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 - [Refactored to use Swag](https://github.com/trisacrypto/envoy/pull/151) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (1 week ago)
 - [Expanded OpenAPI definition further](https://github.com/trisacrypto/envoy/pull/138) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (3 weeks ago)
-- [Extended specification further](https://github.com/ping-localhost/envoy/pull/1) on [ping-localhost/envoy](https://github.com/ping-localhost/envoy) (3 weeks ago)
+- [Extended specification further](https://github.com/ping-localhost/envoy/pull/1) on [ping-localhost/envoy](https://github.com/ping-localhost/envoy) (4 weeks ago)
 - [Updated OpenAPI specifications](https://github.com/trisacrypto/envoy/pull/131) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (1 month ago)
 - [Ensure console.log doesn&#39;t break script 🔧](https://github.com/ping-localhost/seventeen-track-card/pull/12) on [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) (1 month ago)
 
