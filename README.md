@@ -26,7 +26,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.5](https://github.com/gethomepage/homepage/releases/tag/v0.9.5), 1 day ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.5](https://github.com/gethomepage/homepage/releases/tag/v0.9.5), 2 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.2](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.2), 1 month ago) - Lovelace Companion card for sensor.seventeentrack
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([v5.5.0](https://github.com/florianv/symfony-swap/releases/tag/v5.5.0), 3 months ago) - :euro: Currency exchange rates for Symfony
 
@@ -35,7 +35,7 @@ I'm a boring developer, who happens to do something, sometimes.
 #### 🔨 My recent Pull Requests
 
 - [Refactored to use Swag](https://github.com/trisacrypto/envoy/pull/151) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (2 weeks ago)
-- [Expanded OpenAPI definition further](https://github.com/trisacrypto/envoy/pull/138) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (4 weeks ago)
+- [Expanded OpenAPI definition further](https://github.com/trisacrypto/envoy/pull/138) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (1 month ago)
 - [Extended specification further](https://github.com/ping-localhost/envoy/pull/1) on [ping-localhost/envoy](https://github.com/ping-localhost/envoy) (1 month ago)
 - [Updated OpenAPI specifications](https://github.com/trisacrypto/envoy/pull/131) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (1 month ago)
 - [Ensure console.log doesn&#39;t break script 🔧](https://github.com/ping-localhost/seventeen-track-card/pull/12) on [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) (1 month ago)
