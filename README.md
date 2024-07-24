@@ -26,7 +26,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.5](https://github.com/gethomepage/homepage/releases/tag/v0.9.5), 5 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.5](https://github.com/gethomepage/homepage/releases/tag/v0.9.5), 6 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.2](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.2), 1 month ago) - Lovelace Companion card for sensor.seventeentrack
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([v5.5.0](https://github.com/florianv/symfony-swap/releases/tag/v5.5.0), 3 months ago) - :euro: Currency exchange rates for Symfony
 
