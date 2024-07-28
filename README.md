@@ -7,7 +7,7 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) - An open source TRISA node for use in Travel Rule information transfers (4 weeks ago)
+- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) - An open source TRISA node for use in Travel Rule information transfers (1 month ago)
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (1 month ago)
 - [ping-localhost/foobar](https://github.com/ping-localhost/foobar) - minimal reproducible example for golangci-lint (2 months ago)
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) - :euro: Currency exchange rates for Symfony (3 months ago)
