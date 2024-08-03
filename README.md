@@ -26,7 +26,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.23.0](https://github.com/trisacrypto/envoy/releases/tag/v0.23.0), 3 days ago) - An open source TRISA node for use in Travel Rule information transfers
+- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.23.0](https://github.com/trisacrypto/envoy/releases/tag/v0.23.0), 4 days ago) - An open source TRISA node for use in Travel Rule information transfers
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.5](https://github.com/gethomepage/homepage/releases/tag/v0.9.5), 2 weeks ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.2](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.2), 2 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([v5.5.0](https://github.com/florianv/symfony-swap/releases/tag/v5.5.0), 3 months ago) - :euro: Currency exchange rates for Symfony
@@ -46,7 +46,7 @@ I'm a boring developer, who happens to do something, sometimes.
 #### ⭐ Recent Stars
 
 - [bitluni/PicoWMatrixSceenShare](https://github.com/bitluni/PicoWMatrixSceenShare) -  (2 months ago)
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (3 months ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (4 months ago)
 - [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (4 months ago)
 - [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices. (4 months ago)
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets (5 months ago)
