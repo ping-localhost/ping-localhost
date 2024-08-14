@@ -10,7 +10,7 @@ I'm a boring developer, who happens to do something, sometimes.
 - [trisacrypto/envoy](https://github.com/trisacrypto/envoy) - An open source TRISA node for use in Travel Rule information transfers (1 month ago)
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (2 months ago)
 - [ping-localhost/foobar](https://github.com/ping-localhost/foobar) - minimal reproducible example for golangci-lint (2 months ago)
-- [florianv/symfony-swap](https://github.com/florianv/symfony-swap) - :euro: Currency exchange rates for Symfony (3 months ago)
+- [florianv/symfony-swap](https://github.com/florianv/symfony-swap) - :euro: Currency exchange rates for Symfony (4 months ago)
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains (6 months ago)
 
 
@@ -26,8 +26,8 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.6](https://github.com/gethomepage/homepage/releases/tag/v0.9.6), 2 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.24.0](https://github.com/trisacrypto/envoy/releases/tag/v0.24.0), 4 days ago) - An open source TRISA node for use in Travel Rule information transfers
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.6](https://github.com/gethomepage/homepage/releases/tag/v0.9.6), 3 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.24.0](https://github.com/trisacrypto/envoy/releases/tag/v0.24.0), 5 days ago) - An open source TRISA node for use in Travel Rule information transfers
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.2](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.2), 2 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([v5.5.0](https://github.com/florianv/symfony-swap/releases/tag/v5.5.0), 4 months ago) - :euro: Currency exchange rates for Symfony
 
