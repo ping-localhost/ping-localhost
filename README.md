@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 #### 🔭 Latest releases I've contributed to
 
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.3](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.3), 1 week ago) - Lovelace Companion card for sensor.seventeentrack
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.6](https://github.com/gethomepage/homepage/releases/tag/v0.9.6), 1 week ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.6](https://github.com/gethomepage/homepage/releases/tag/v0.9.6), 2 weeks ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.24.0](https://github.com/trisacrypto/envoy/releases/tag/v0.24.0), 2 weeks ago) - An open source TRISA node for use in Travel Rule information transfers
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([v5.5.0](https://github.com/florianv/symfony-swap/releases/tag/v5.5.0), 4 months ago) - :euro: Currency exchange rates for Symfony
 
