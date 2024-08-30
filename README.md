@@ -7,11 +7,11 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 day ago)
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (2 weeks ago)
 - [trisacrypto/envoy](https://github.com/trisacrypto/envoy) - An open source TRISA node for use in Travel Rule information transfers (2 months ago)
 - [ping-localhost/foobar](https://github.com/ping-localhost/foobar) - minimal reproducible example for golangci-lint (3 months ago)
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) - :euro: Currency exchange rates for Symfony (4 months ago)
-- [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains (6 months ago)
 
 
 
@@ -28,14 +28,14 @@ I'm a boring developer, who happens to do something, sometimes.
 
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.3](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.3), 2 weeks ago) - Lovelace Companion card for sensor.seventeentrack
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.6](https://github.com/gethomepage/homepage/releases/tag/v0.9.6), 2 weeks ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.24.0](https://github.com/trisacrypto/envoy/releases/tag/v0.24.0), 2 weeks ago) - An open source TRISA node for use in Travel Rule information transfers
+- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.24.0](https://github.com/trisacrypto/envoy/releases/tag/v0.24.0), 3 weeks ago) - An open source TRISA node for use in Travel Rule information transfers
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([v5.5.0](https://github.com/florianv/symfony-swap/releases/tag/v5.5.0), 4 months ago) - :euro: Currency exchange rates for Symfony
 
 
 
 #### 🔨 My recent Pull Requests
 
-- [Feature: Zabbix service widget](https://github.com/gethomepage/homepage/pull/3905) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (1 day ago)
+- [Feature: Zabbix service widget](https://github.com/gethomepage/homepage/pull/3905) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (2 days ago)
 - [Refactored to use Swag](https://github.com/trisacrypto/envoy/pull/151) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (1 month ago)
 - [Expanded OpenAPI definition further](https://github.com/trisacrypto/envoy/pull/138) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (2 months ago)
 - [Extended specification further](https://github.com/ping-localhost/envoy/pull/1) on [ping-localhost/envoy](https://github.com/ping-localhost/envoy) (2 months ago)
