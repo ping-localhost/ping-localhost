@@ -7,9 +7,9 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) -  (1 day ago)
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 day ago)
-- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (2 weeks ago)
+- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) -  (2 days ago)
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (2 days ago)
+- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (3 weeks ago)
 - [trisacrypto/envoy](https://github.com/trisacrypto/envoy) - An open source TRISA node for use in Travel Rule information transfers (2 months ago)
 - [ping-localhost/foobar](https://github.com/ping-localhost/foobar) - minimal reproducible example for golangci-lint (3 months ago)
 
@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.3](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.3), 2 weeks ago) - Lovelace Companion card for sensor.seventeentrack
+- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.3](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.3), 3 weeks ago) - Lovelace Companion card for sensor.seventeentrack
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.6](https://github.com/gethomepage/homepage/releases/tag/v0.9.6), 3 weeks ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.24.0](https://github.com/trisacrypto/envoy/releases/tag/v0.24.0), 3 weeks ago) - An open source TRISA node for use in Travel Rule information transfers
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([v5.5.0](https://github.com/florianv/symfony-swap/releases/tag/v5.5.0), 4 months ago) - :euro: Currency exchange rates for Symfony
@@ -36,11 +36,11 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔨 My recent Pull Requests
 
-- [Enhancement: support more fields for zabbix widget](https://github.com/gethomepage/homepage/pull/3931) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (2 days ago)
-- [Feature: Zabbix service widget](https://github.com/gethomepage/homepage/pull/3905) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (6 days ago)
+- [fix: autobrr description](https://github.com/runtipi/runtipi-appstore/pull/4668) on [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) (1 day ago)
+- [Enhancement: support more fields for zabbix widget](https://github.com/gethomepage/homepage/pull/3931) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (3 days ago)
+- [Feature: Zabbix service widget](https://github.com/gethomepage/homepage/pull/3905) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (1 week ago)
 - [Refactored to use Swag](https://github.com/trisacrypto/envoy/pull/151) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (2 months ago)
 - [Expanded OpenAPI definition further](https://github.com/trisacrypto/envoy/pull/138) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (2 months ago)
-- [Extended specification further](https://github.com/ping-localhost/envoy/pull/1) on [ping-localhost/envoy](https://github.com/ping-localhost/envoy) (2 months ago)
 
 
 
