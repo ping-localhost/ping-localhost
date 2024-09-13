@@ -7,11 +7,11 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [ping-localhost/fixi](https://github.com/ping-localhost/fixi) - Home Assistant Fixi Integration (5 days ago)
+- [ping-localhost/fixi](https://github.com/ping-localhost/fixi) - Home Assistant Fixi Integration (6 days ago)
 - [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) - Official Runtipi AppStore. Apps and updates live here! (1 week ago)
 - [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) -  (1 week ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 week ago)
-- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (4 weeks ago)
+- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (1 month ago)
 
 
 
@@ -27,9 +27,9 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.9](https://github.com/gethomepage/homepage/releases/tag/v0.9.9), 2 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.9](https://github.com/gethomepage/homepage/releases/tag/v0.9.9), 3 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.25.0](https://github.com/trisacrypto/envoy/releases/tag/v0.25.0), 1 week ago) - An open source TRISA node for use in Travel Rule information transfers
-- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.3](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.3), 4 weeks ago) - Lovelace Companion card for sensor.seventeentrack
+- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.3](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.3), 1 month ago) - Lovelace Companion card for sensor.seventeentrack
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([v5.5.0](https://github.com/florianv/symfony-swap/releases/tag/v5.5.0), 5 months ago) - :euro: Currency exchange rates for Symfony
 
 
