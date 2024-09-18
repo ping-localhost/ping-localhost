@@ -8,7 +8,7 @@ I'm a boring developer, who happens to do something, sometimes.
 #### 👷 Check out what I'm currently working on
 
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) - Home Assistant Fixi Integration (1 week ago)
-- [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) - Official Runtipi AppStore. Apps and updates live here! (1 week ago)
+- [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) - Official Runtipi AppStore. Apps and updates live here! (2 weeks ago)
 - [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) -  (2 weeks ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (2 weeks ago)
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (1 month ago)
@@ -38,9 +38,9 @@ I'm a boring developer, who happens to do something, sometimes.
 
 - [fix: autobrr description](https://github.com/runtipi/runtipi-appstore/pull/4668) on [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) (2 weeks ago)
 - [Enhancement: support more fields for zabbix widget](https://github.com/gethomepage/homepage/pull/3931) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (2 weeks ago)
-- [Feature: Zabbix service widget](https://github.com/gethomepage/homepage/pull/3905) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (2 weeks ago)
+- [Feature: Zabbix service widget](https://github.com/gethomepage/homepage/pull/3905) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (3 weeks ago)
 - [Refactored to use Swag](https://github.com/trisacrypto/envoy/pull/151) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (2 months ago)
-- [Expanded OpenAPI definition further](https://github.com/trisacrypto/envoy/pull/138) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (2 months ago)
+- [Expanded OpenAPI definition further](https://github.com/trisacrypto/envoy/pull/138) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (3 months ago)
 
 
 
