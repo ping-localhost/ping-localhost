@@ -11,7 +11,7 @@ I'm a boring developer, who happens to do something, sometimes.
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) - Home Assistant Fixi Integration (1 month ago)
 - [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) - Official Runtipi AppStore. Apps and updates live here! (1 month ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 month ago)
-- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (1 month ago)
+- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (2 months ago)
 
 
 
@@ -29,7 +29,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 - [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.27.0](https://github.com/trisacrypto/envoy/releases/tag/v0.27.0), 1 week ago) - An open source TRISA node for use in Travel Rule information transfers
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.10](https://github.com/gethomepage/homepage/releases/tag/v0.9.10), 2 weeks ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.3](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.3), 1 month ago) - Lovelace Companion card for sensor.seventeentrack
+- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.3](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.3), 2 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([v5.5.0](https://github.com/florianv/symfony-swap/releases/tag/v5.5.0), 6 months ago) - :euro: Currency exchange rates for Symfony
 
 
