@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.13](https://github.com/gethomepage/homepage/releases/tag/v0.9.13), 4 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.13](https://github.com/gethomepage/homepage/releases/tag/v0.9.13), 5 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.27.1](https://github.com/trisacrypto/envoy/releases/tag/v0.27.1), 1 month ago) - An open source TRISA node for use in Travel Rule information transfers
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.3](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.3), 3 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([v5.5.0](https://github.com/florianv/symfony-swap/releases/tag/v5.5.0), 7 months ago) - :euro: Currency exchange rates for Symfony
@@ -56,9 +56,9 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 👯 Check out some of my recent followers
 
-- [eust-w](https://github.com/eust-w)
 - [Fascinatorx](https://github.com/Fascinatorx)
 - [manjit683](https://github.com/manjit683)
 - [eddypouw](https://github.com/eddypouw)
 - [testitesti22](https://github.com/testitesti22)
+- [Chaithu12305](https://github.com/Chaithu12305)
 
