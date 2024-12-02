@@ -36,21 +36,21 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: autobrr description](https://github.com/runtipi/runtipi-appstore/pull/4668) on [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) (2 months ago)
+- [fix: autobrr description](https://github.com/runtipi/runtipi-appstore/pull/4668) on [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) (3 months ago)
 - [Enhancement: support more fields for zabbix widget](https://github.com/gethomepage/homepage/pull/3931) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (3 months ago)
 - [Feature: Zabbix service widget](https://github.com/gethomepage/homepage/pull/3905) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (3 months ago)
-- [Refactored to use Swag](https://github.com/trisacrypto/envoy/pull/151) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (4 months ago)
+- [Refactored to use Swag](https://github.com/trisacrypto/envoy/pull/151) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (5 months ago)
 - [Expanded OpenAPI definition further](https://github.com/trisacrypto/envoy/pull/138) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (5 months ago)
 
 
 
 #### ⭐ Recent Stars
 
-- [mauriciofsnts/hermes](https://github.com/mauriciofsnts/hermes) -  Email API service for seamless integration of email functionalities in applications. (2 weeks ago)
+- [mauriciofsnts/hermes](https://github.com/mauriciofsnts/hermes) -  Email API service for seamless integration of email functionalities in applications. (3 weeks ago)
 - [bitluni/PicoWMatrixSceenShare](https://github.com/bitluni/PicoWMatrixSceenShare) -  (6 months ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (8 months ago)
 - [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (8 months ago)
-- [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices. (8 months ago)
+- [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices. (9 months ago)
 
 
 
