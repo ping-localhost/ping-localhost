@@ -7,9 +7,9 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (1 month ago)
+- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (2 months ago)
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) - Home Assistant Fixi Integration (2 months ago)
-- [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) - Official Runtipi AppStore. Apps and updates live here! (2 months ago)
+- [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) - Official Runtipi AppStore. Apps and updates live here! (3 months ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (3 months ago)
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (3 months ago)
 
