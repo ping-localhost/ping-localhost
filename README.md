@@ -46,11 +46,11 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### ⭐ Recent Stars
 
+- [Doridian/OpenBambuAPI](https://github.com/Doridian/OpenBambuAPI) - Bambu API docs (1 day ago)
+- [Bambu-Research-Group/RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags (1 day ago)
+- [capull0/BambuAMSCtrl](https://github.com/capull0/BambuAMSCtrl) - A Flask application that allows users to load any filament into a Bambulab AMS using an RFID reader or QR scanner. (1 day ago)
 - [mauriciofsnts/hermes](https://github.com/mauriciofsnts/hermes) -  Email API service for seamless integration of email functionalities in applications. (4 weeks ago)
 - [bitluni/PicoWMatrixSceenShare](https://github.com/bitluni/PicoWMatrixSceenShare) -  (7 months ago)
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (8 months ago)
-- [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (8 months ago)
-- [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices. (9 months ago)
 
 
 
