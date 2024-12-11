@@ -46,10 +46,10 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### ⭐ Recent Stars
 
-- [Doridian/OpenBambuAPI](https://github.com/Doridian/OpenBambuAPI) - Bambu API docs (1 day ago)
-- [Bambu-Research-Group/RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags (1 day ago)
-- [capull0/BambuAMSCtrl](https://github.com/capull0/BambuAMSCtrl) - A Flask application that allows users to load any filament into a Bambulab AMS using an RFID reader or QR scanner. (1 day ago)
-- [mauriciofsnts/hermes](https://github.com/mauriciofsnts/hermes) -  Email API service for seamless integration of email functionalities in applications. (4 weeks ago)
+- [Doridian/OpenBambuAPI](https://github.com/Doridian/OpenBambuAPI) - Bambu API docs (2 days ago)
+- [Bambu-Research-Group/RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags (2 days ago)
+- [capull0/BambuAMSCtrl](https://github.com/capull0/BambuAMSCtrl) - A Flask application that allows users to load any filament into a Bambulab AMS using an RFID reader or QR scanner. (2 days ago)
+- [mauriciofsnts/hermes](https://github.com/mauriciofsnts/hermes) -  Email API service for seamless integration of email functionalities in applications. (1 month ago)
 - [bitluni/PicoWMatrixSceenShare](https://github.com/bitluni/PicoWMatrixSceenShare) -  (7 months ago)
 
 
