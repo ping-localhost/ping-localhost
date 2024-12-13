@@ -36,19 +36,19 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔨 My recent Pull Requests
 
+- [Tiny English translation update](https://github.com/bambulab/BambuStudio/pull/5521) on [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) (1 day ago)
 - [fix: autobrr description](https://github.com/runtipi/runtipi-appstore/pull/4668) on [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) (3 months ago)
 - [Enhancement: support more fields for zabbix widget](https://github.com/gethomepage/homepage/pull/3931) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (3 months ago)
 - [Feature: Zabbix service widget](https://github.com/gethomepage/homepage/pull/3905) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (3 months ago)
 - [Refactored to use Swag](https://github.com/trisacrypto/envoy/pull/151) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (5 months ago)
-- [Expanded OpenAPI definition further](https://github.com/trisacrypto/envoy/pull/138) on [trisacrypto/envoy](https://github.com/trisacrypto/envoy) (5 months ago)
 
 
 
 #### ⭐ Recent Stars
 
-- [Doridian/OpenBambuAPI](https://github.com/Doridian/OpenBambuAPI) - Bambu API docs (3 days ago)
-- [Bambu-Research-Group/RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags (3 days ago)
-- [capull0/BambuAMSCtrl](https://github.com/capull0/BambuAMSCtrl) - A Flask application that allows users to load any filament into a Bambulab AMS using an RFID reader or QR scanner. (3 days ago)
+- [Doridian/OpenBambuAPI](https://github.com/Doridian/OpenBambuAPI) - Bambu API docs (4 days ago)
+- [Bambu-Research-Group/RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags (4 days ago)
+- [capull0/BambuAMSCtrl](https://github.com/capull0/BambuAMSCtrl) - A Flask application that allows users to load any filament into a Bambulab AMS using an RFID reader or QR scanner. (4 days ago)
 - [mauriciofsnts/hermes](https://github.com/mauriciofsnts/hermes) -  Email API service for seamless integration of email functionalities in applications. (1 month ago)
 - [bitluni/PicoWMatrixSceenShare](https://github.com/bitluni/PicoWMatrixSceenShare) -  (7 months ago)
 
