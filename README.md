@@ -7,10 +7,10 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers (2 weeks ago)
-- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (2 months ago)
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers (3 weeks ago)
+- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (3 months ago)
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) - Home Assistant Fixi Integration (3 months ago)
-- [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) - Official Runtipi AppStore. Apps and updates live here! (3 months ago)
+- [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) - Official Runtipi AppStore. Apps and updates live here! (4 months ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (4 months ago)
 
 
@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.6](https://github.com/gethomepage/homepage/releases/tag/v0.10.6), 4 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.7](https://github.com/gethomepage/homepage/releases/tag/v0.10.7), 1 day ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v01.10.01.50](https://github.com/bambulab/BambuStudio/releases/tag/v01.10.01.50), 1 month ago) - PC Software for BambuLab and other 3D printers
 - [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.27.1](https://github.com/trisacrypto/envoy/releases/tag/v0.27.1), 2 months ago) - An open source TRISA node for use in Travel Rule information transfers
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.3](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.3), 4 months ago) - Lovelace Companion card for sensor.seventeentrack
@@ -38,7 +38,7 @@ I'm a boring developer, who happens to do something, sometimes.
 #### 🔨 My recent Pull Requests
 
 - [Tiny English translation update (now in the proper file)](https://github.com/bambulab/BambuStudio/pull/5559) on [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) (2 weeks ago)
-- [Tiny English translation update](https://github.com/bambulab/BambuStudio/pull/5521) on [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) (2 weeks ago)
+- [Tiny English translation update](https://github.com/bambulab/BambuStudio/pull/5521) on [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) (3 weeks ago)
 - [fix: autobrr description](https://github.com/runtipi/runtipi-appstore/pull/4668) on [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) (4 months ago)
 - [Enhancement: support more fields for zabbix widget](https://github.com/gethomepage/homepage/pull/3931) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (4 months ago)
 - [Feature: Zabbix service widget](https://github.com/gethomepage/homepage/pull/3905) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (4 months ago)
