@@ -27,8 +27,8 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.9](https://github.com/gethomepage/homepage/releases/tag/v0.10.9), 3 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v01.10.01.50](https://github.com/bambulab/BambuStudio/releases/tag/v01.10.01.50), 1 month ago) - PC Software for BambuLab and other 3D printers
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v01.10.02.64](https://github.com/bambulab/BambuStudio/releases/tag/v01.10.02.64), 1 day ago) - PC Software for BambuLab and other 3D printers
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.9](https://github.com/gethomepage/homepage/releases/tag/v0.10.9), 4 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.27.1](https://github.com/trisacrypto/envoy/releases/tag/v0.27.1), 2 months ago) - An open source TRISA node for use in Travel Rule information transfers
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.3](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.3), 4 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([v5.5.0](https://github.com/florianv/symfony-swap/releases/tag/v5.5.0), 9 months ago) - :euro: Currency exchange rates for Symfony
@@ -50,7 +50,7 @@ I'm a boring developer, who happens to do something, sometimes.
 - [Doridian/OpenBambuAPI](https://github.com/Doridian/OpenBambuAPI) - Bambu API docs (1 month ago)
 - [Bambu-Research-Group/RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags (1 month ago)
 - [capull0/BambuAMSCtrl](https://github.com/capull0/BambuAMSCtrl) - A Flask application that allows users to load any filament into a Bambulab AMS using an RFID reader or QR scanner. (1 month ago)
-- [mauriciofsnts/hermes](https://github.com/mauriciofsnts/hermes) -  Email API service for seamless integration of email functionalities in applications. (1 month ago)
+- [mauriciofsnts/hermes](https://github.com/mauriciofsnts/hermes) -  Email API service for seamless integration of email functionalities in applications. (2 months ago)
 - [bitluni/PicoWMatrixSceenShare](https://github.com/bitluni/PicoWMatrixSceenShare) -  (8 months ago)
 
 
