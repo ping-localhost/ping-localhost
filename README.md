@@ -27,8 +27,8 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v01.10.02.64](https://github.com/bambulab/BambuStudio/releases/tag/v01.10.02.64), 3 days ago) - PC Software for BambuLab and other 3D printers
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.9](https://github.com/gethomepage/homepage/releases/tag/v0.10.9), 6 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v01.10.02.64](https://github.com/bambulab/BambuStudio/releases/tag/v01.10.02.64), 4 days ago) - PC Software for BambuLab and other 3D printers
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.9](https://github.com/gethomepage/homepage/releases/tag/v0.10.9), 1 week ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.27.1](https://github.com/trisacrypto/envoy/releases/tag/v0.27.1), 2 months ago) - An open source TRISA node for use in Travel Rule information transfers
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.3](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.3), 5 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([v5.5.0](https://github.com/florianv/symfony-swap/releases/tag/v5.5.0), 9 months ago) - :euro: Currency exchange rates for Symfony
@@ -37,7 +37,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔨 My recent Pull Requests
 
-- [Tiny English translation update (now in the proper file)](https://github.com/bambulab/BambuStudio/pull/5559) on [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) (3 weeks ago)
+- [Tiny English translation update (now in the proper file)](https://github.com/bambulab/BambuStudio/pull/5559) on [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) (4 weeks ago)
 - [Tiny English translation update](https://github.com/bambulab/BambuStudio/pull/5521) on [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) (1 month ago)
 - [fix: autobrr description](https://github.com/runtipi/runtipi-appstore/pull/4668) on [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) (4 months ago)
 - [Enhancement: support more fields for zabbix widget](https://github.com/gethomepage/homepage/pull/3931) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (4 months ago)
