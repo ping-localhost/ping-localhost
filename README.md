@@ -7,8 +7,8 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [ping-localhost/fixi](https://github.com/ping-localhost/fixi) - Home Assistant Fixi Integration (3 days ago)
-- [ping-localhost/vuln-check-reproducible](https://github.com/ping-localhost/vuln-check-reproducible) - False positive for GO-2025-3408 (5 days ago)
+- [ping-localhost/fixi](https://github.com/ping-localhost/fixi) - Home Assistant Fixi Integration (4 days ago)
+- [ping-localhost/vuln-check-reproducible](https://github.com/ping-localhost/vuln-check-reproducible) - False positive for GO-2025-3408 (6 days ago)
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers (1 month ago)
 - [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (4 months ago)
 - [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) - Official Runtipi AppStore. Apps and updates live here! (5 months ago)
@@ -27,10 +27,10 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 4 days ago) - Home Assistant Fixi Integration
+- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.29.0](https://github.com/trisacrypto/envoy/releases/tag/v0.29.0), 1 day ago) - An open source TRISA node for use in Travel Rule information transfers
+- [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 5 days ago) - Home Assistant Fixi Integration
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v01.10.02.64](https://github.com/bambulab/BambuStudio/releases/tag/v01.10.02.64), 3 weeks ago) - PC Software for BambuLab and other 3D printers
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.9](https://github.com/gethomepage/homepage/releases/tag/v0.10.9), 4 weeks ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.27.1](https://github.com/trisacrypto/envoy/releases/tag/v0.27.1), 3 months ago) - An open source TRISA node for use in Travel Rule information transfers
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.9](https://github.com/gethomepage/homepage/releases/tag/v0.10.9), 1 month ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.1.3](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.1.3), 5 months ago) - Lovelace Companion card for sensor.seventeentrack
 
 
@@ -51,7 +51,7 @@ I'm a boring developer, who happens to do something, sometimes.
 - [Bambu-Research-Group/RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags (1 month ago)
 - [capull0/BambuAMSCtrl](https://github.com/capull0/BambuAMSCtrl) - A Flask application that allows users to load any filament into a Bambulab AMS using an RFID reader or QR scanner. (1 month ago)
 - [mauriciofsnts/hermes](https://github.com/mauriciofsnts/hermes) -  Email API service for seamless integration of email functionalities in applications. (2 months ago)
-- [bitluni/PicoWMatrixSceenShare](https://github.com/bitluni/PicoWMatrixSceenShare) -  (8 months ago)
+- [bitluni/PicoWMatrixSceenShare](https://github.com/bitluni/PicoWMatrixSceenShare) -  (9 months ago)
 
 
 
