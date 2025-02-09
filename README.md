@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.29.0](https://github.com/trisacrypto/envoy/releases/tag/v0.29.0), 4 days ago) - An open source TRISA node for use in Travel Rule information transfers
+- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.29.0](https://github.com/trisacrypto/envoy/releases/tag/v0.29.0), 5 days ago) - An open source TRISA node for use in Travel Rule information transfers
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 1 week ago) - Home Assistant Fixi Integration
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v01.10.02.64](https://github.com/bambulab/BambuStudio/releases/tag/v01.10.02.64), 1 month ago) - PC Software for BambuLab and other 3D printers
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.9](https://github.com/gethomepage/homepage/releases/tag/v0.10.9), 1 month ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -50,7 +50,7 @@ I'm a boring developer, who happens to do something, sometimes.
 - [Doridian/OpenBambuAPI](https://github.com/Doridian/OpenBambuAPI) - Bambu API docs (2 months ago)
 - [Bambu-Research-Group/RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags (2 months ago)
 - [capull0/BambuAMSCtrl](https://github.com/capull0/BambuAMSCtrl) - A Flask application that allows users to load any filament into a Bambulab AMS using an RFID reader or QR scanner. (2 months ago)
-- [mauriciofsnts/hermes](https://github.com/mauriciofsnts/hermes) -  Email API service for seamless integration of email functionalities in applications. (2 months ago)
+- [mauriciofsnts/hermes](https://github.com/mauriciofsnts/hermes) -  Email API service for seamless integration of email functionalities in applications. (3 months ago)
 - [bitluni/PicoWMatrixSceenShare](https://github.com/bitluni/PicoWMatrixSceenShare) -  (9 months ago)
 
 
