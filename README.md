@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.30.0](https://github.com/trisacrypto/envoy/releases/tag/v0.30.0), 6 days ago) - An open source TRISA node for use in Travel Rule information transfers
+- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.30.0](https://github.com/trisacrypto/envoy/releases/tag/v0.30.0), 1 week ago) - An open source TRISA node for use in Travel Rule information transfers
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 2 weeks ago) - Home Assistant Fixi Integration
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v01.10.02.64](https://github.com/bambulab/BambuStudio/releases/tag/v01.10.02.64), 1 month ago) - PC Software for BambuLab and other 3D printers
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.9](https://github.com/gethomepage/homepage/releases/tag/v0.10.9), 1 month ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
