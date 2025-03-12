@@ -7,10 +7,10 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (2 weeks ago)
+- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (3 weeks ago)
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) - Home Assistant Fixi Integration (1 month ago)
 - [ping-localhost/vuln-check-reproducible](https://github.com/ping-localhost/vuln-check-reproducible) - False positive for GO-2025-3408 (1 month ago)
-- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers (2 months ago)
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers (3 months ago)
 - [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (5 months ago)
 
 
@@ -39,7 +39,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 - [Added GitHub actions](https://github.com/ping-localhost/seventeen-track-card/pull/14) on [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) (3 weeks ago)
 - [Tiny English translation update (now in the proper file)](https://github.com/bambulab/BambuStudio/pull/5559) on [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) (2 months ago)
-- [Tiny English translation update](https://github.com/bambulab/BambuStudio/pull/5521) on [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) (2 months ago)
+- [Tiny English translation update](https://github.com/bambulab/BambuStudio/pull/5521) on [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) (3 months ago)
 - [fix: autobrr description](https://github.com/runtipi/runtipi-appstore/pull/4668) on [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) (6 months ago)
 - [Enhancement: support more fields for zabbix widget](https://github.com/gethomepage/homepage/pull/3931) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (6 months ago)
 
