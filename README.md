@@ -27,11 +27,11 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.00.01.50](https://github.com/bambulab/BambuStudio/releases/tag/v02.00.01.50), 3 days ago) - PC Software for BambuLab and other 3D printers
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.1.1](https://github.com/gethomepage/homepage/releases/tag/v1.1.1), 3 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.00.01.50](https://github.com/bambulab/BambuStudio/releases/tag/v02.00.01.50), 4 days ago) - PC Software for BambuLab and other 3D printers
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.1.1](https://github.com/gethomepage/homepage/releases/tag/v1.1.1), 4 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 1 month ago) - Lovelace Companion card for sensor.seventeentrack
 - [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.30.1](https://github.com/trisacrypto/envoy/releases/tag/v0.30.1), 1 month ago) - An open source TRISA node for use in Travel Rule information transfers
-- [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 1 month ago) - Home Assistant Fixi Integration
+- [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 2 months ago) - Home Assistant Fixi Integration
 
 
 
@@ -40,7 +40,7 @@ I'm a boring developer, who happens to do something, sometimes.
 - [Added GitHub actions](https://github.com/ping-localhost/seventeen-track-card/pull/14) on [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) (1 month ago)
 - [Tiny English translation update (now in the proper file)](https://github.com/bambulab/BambuStudio/pull/5559) on [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) (3 months ago)
 - [Tiny English translation update](https://github.com/bambulab/BambuStudio/pull/5521) on [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) (3 months ago)
-- [fix: autobrr description](https://github.com/runtipi/runtipi-appstore/pull/4668) on [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) (6 months ago)
+- [fix: autobrr description](https://github.com/runtipi/runtipi-appstore/pull/4668) on [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) (7 months ago)
 - [Enhancement: support more fields for zabbix widget](https://github.com/gethomepage/homepage/pull/3931) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (7 months ago)
 
 
