@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.2.0](https://github.com/gethomepage/homepage/releases/tag/v1.2.0), 6 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.2.0](https://github.com/gethomepage/homepage/releases/tag/v1.2.0), 1 week ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([V02.00.03.54](https://github.com/bambulab/BambuStudio/releases/tag/V02.00.03.54), 1 week ago) - PC Software for BambuLab and other 3D printers
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 2 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v0.30.1](https://github.com/trisacrypto/envoy/releases/tag/v0.30.1), 2 months ago) - An open source TRISA node for use in Travel Rule information transfers
@@ -47,8 +47,8 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### ⭐ Recent Stars
 
-- [wesbos/bracket.engineer](https://github.com/wesbos/bracket.engineer) - Generate 3D printable power brick brackets. (3 days ago)
-- [siemens/sentry-auth-oidc](https://github.com/siemens/sentry-auth-oidc) - OpenID Connect SSO provider for Sentry (6 days ago)
+- [wesbos/bracket.engineer](https://github.com/wesbos/bracket.engineer) - Generate 3D printable power brick brackets. (4 days ago)
+- [siemens/sentry-auth-oidc](https://github.com/siemens/sentry-auth-oidc) - OpenID Connect SSO provider for Sentry (1 week ago)
 - [cherryduck/BambuTagScanner](https://github.com/cherryduck/BambuTagScanner) - An Android app to scan, dump and save Bambu tags (2 months ago)
 - [Doridian/OpenBambuAPI](https://github.com/Doridian/OpenBambuAPI) - Bambu API docs (4 months ago)
 - [Bambu-Research-Group/RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags (4 months ago)
