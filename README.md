@@ -7,11 +7,11 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (2 months ago)
-- [ping-localhost/fixi](https://github.com/ping-localhost/fixi) - Home Assistant Fixi Integration (3 months ago)
+- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (1 day ago)
+- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (1 day ago)
+- [ping-localhost/fixi](https://github.com/ping-localhost/fixi) - Home Assistant Fixi Integration (1 day ago)
 - [ping-localhost/vuln-check-reproducible](https://github.com/ping-localhost/vuln-check-reproducible) - False positive for GO-2025-3408 (3 months ago)
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers (5 months ago)
-- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (7 months ago)
 
 
 
