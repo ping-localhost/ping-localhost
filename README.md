@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v1.0.0](https://github.com/trisacrypto/envoy/releases/tag/v1.0.0), 1 day ago) - An open source TRISA node for use in Travel Rule information transfers
+- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v1.0.0](https://github.com/trisacrypto/envoy/releases/tag/v1.0.0), 2 days ago) - An open source TRISA node for use in Travel Rule information transfers
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.2.0](https://github.com/gethomepage/homepage/releases/tag/v1.2.0), 3 weeks ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([V02.00.03.54](https://github.com/bambulab/BambuStudio/releases/tag/V02.00.03.54), 4 weeks ago) - PC Software for BambuLab and other 3D printers
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 3 months ago) - Lovelace Companion card for sensor.seventeentrack
