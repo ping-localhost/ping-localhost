@@ -7,9 +7,9 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (1 week ago)
-- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (1 week ago)
-- [ping-localhost/fixi](https://github.com/ping-localhost/fixi) - Home Assistant Fixi Integration (1 week ago)
+- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (2 weeks ago)
+- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (2 weeks ago)
+- [ping-localhost/fixi](https://github.com/ping-localhost/fixi) - Home Assistant Fixi Integration (2 weeks ago)
 - [ping-localhost/vuln-check-reproducible](https://github.com/ping-localhost/vuln-check-reproducible) - False positive for GO-2025-3408 (3 months ago)
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers (5 months ago)
 
@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v1.0.0](https://github.com/trisacrypto/envoy/releases/tag/v1.0.0), 5 days ago) - An open source TRISA node for use in Travel Rule information transfers
+- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v1.0.0](https://github.com/trisacrypto/envoy/releases/tag/v1.0.0), 6 days ago) - An open source TRISA node for use in Travel Rule information transfers
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.2.0](https://github.com/gethomepage/homepage/releases/tag/v1.2.0), 4 weeks ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([V02.00.03.54](https://github.com/bambulab/BambuStudio/releases/tag/V02.00.03.54), 1 month ago) - PC Software for BambuLab and other 3D printers
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 3 months ago) - Lovelace Companion card for sensor.seventeentrack
