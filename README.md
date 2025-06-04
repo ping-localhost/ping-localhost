@@ -27,9 +27,9 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.3.2](https://github.com/gethomepage/homepage/releases/tag/v1.3.2), 2 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v1.0.0](https://github.com/trisacrypto/envoy/releases/tag/v1.0.0), 1 week ago) - An open source TRISA node for use in Travel Rule information transfers
-- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([V02.00.03.54](https://github.com/bambulab/BambuStudio/releases/tag/V02.00.03.54), 1 month ago) - PC Software for BambuLab and other 3D printers
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.01.00.59](https://github.com/bambulab/BambuStudio/releases/tag/v02.01.00.59), 1 day ago) - PC Software for BambuLab and other 3D printers
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.3.2](https://github.com/gethomepage/homepage/releases/tag/v1.3.2), 3 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [trisacrypto/envoy](https://github.com/trisacrypto/envoy) ([v1.0.0](https://github.com/trisacrypto/envoy/releases/tag/v1.0.0), 2 weeks ago) - An open source TRISA node for use in Travel Rule information transfers
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 3 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 4 months ago) - Home Assistant Fixi Integration
 
@@ -47,11 +47,11 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### ⭐ Recent Stars
 
-- [brycebostwick/WidgetAnimation](https://github.com/brycebostwick/WidgetAnimation) - Proof of concept for Animated iOS Widgets using Public APIs (2 weeks ago)
+- [Nikotine1/terramaster-fancontrol-IT8613E](https://github.com/Nikotine1/terramaster-fancontrol-IT8613E) - Fan control for the TerraMaster NAS with IT8613E chipset on Linux (e.g. F4-424) (1 day ago)
+- [brycebostwick/WidgetAnimation](https://github.com/brycebostwick/WidgetAnimation) - Proof of concept for Animated iOS Widgets using Public APIs (3 weeks ago)
 - [wesbos/bracket.engineer](https://github.com/wesbos/bracket.engineer) - Generate 3D printable power brick brackets. (1 month ago)
 - [siemens/sentry-auth-oidc](https://github.com/siemens/sentry-auth-oidc) - OpenID Connect SSO provider for Sentry (1 month ago)
 - [cherryduck/BambuTagScanner](https://github.com/cherryduck/BambuTagScanner) - An Android app to scan, dump and save Bambu tags (3 months ago)
-- [Doridian/OpenBambuAPI](https://github.com/Doridian/OpenBambuAPI) - Bambu API docs (5 months ago)
 
 
 
