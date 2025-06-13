@@ -48,7 +48,7 @@ I'm a boring developer, who happens to do something, sometimes.
 #### ⭐ Recent Stars
 
 - [Nikotine1/terramaster-fancontrol-IT8613E](https://github.com/Nikotine1/terramaster-fancontrol-IT8613E) - Fan control for the TerraMaster NAS with IT8613E chipset on Linux (e.g. F4-424) (1 week ago)
-- [brycebostwick/WidgetAnimation](https://github.com/brycebostwick/WidgetAnimation) - Proof of concept for Animated iOS Widgets using Public APIs (4 weeks ago)
+- [brycebostwick/WidgetAnimation](https://github.com/brycebostwick/WidgetAnimation) - Proof of concept for Animated iOS Widgets using Public APIs (1 month ago)
 - [wesbos/bracket.engineer](https://github.com/wesbos/bracket.engineer) - Generate 3D printable power brick brackets. (1 month ago)
 - [siemens/sentry-auth-oidc](https://github.com/siemens/sentry-auth-oidc) - OpenID Connect SSO provider for Sentry (1 month ago)
 - [cherryduck/BambuTagScanner](https://github.com/cherryduck/BambuTagScanner) - An Android app to scan, dump and save Bambu tags (3 months ago)
