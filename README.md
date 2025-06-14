@@ -38,7 +38,7 @@ I'm a boring developer, who happens to do something, sometimes.
 #### 🔨 My recent Pull Requests
 
 - [Added GitHub actions](https://github.com/ping-localhost/seventeen-track-card/pull/14) on [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) (3 months ago)
-- [Tiny English translation update (now in the proper file)](https://github.com/bambulab/BambuStudio/pull/5559) on [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) (5 months ago)
+- [Tiny English translation update (now in the proper file)](https://github.com/bambulab/BambuStudio/pull/5559) on [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) (6 months ago)
 - [Tiny English translation update](https://github.com/bambulab/BambuStudio/pull/5521) on [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) (6 months ago)
 - [fix: autobrr description](https://github.com/runtipi/runtipi-appstore/pull/4668) on [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) (9 months ago)
 - [Enhancement: support more fields for zabbix widget](https://github.com/gethomepage/homepage/pull/3931) on [gethomepage/homepage](https://github.com/gethomepage/homepage) (9 months ago)
