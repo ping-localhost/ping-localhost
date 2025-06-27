@@ -7,7 +7,7 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (5 days ago)
+- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (6 days ago)
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (1 week ago)
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) - Home Assistant Fixi Integration (1 month ago)
 - [ping-localhost/vuln-check-reproducible](https://github.com/ping-localhost/vuln-check-reproducible) - False positive for GO-2025-3408 (4 months ago)
@@ -50,7 +50,7 @@ I'm a boring developer, who happens to do something, sometimes.
 - [Nikotine1/terramaster-fancontrol-IT8613E](https://github.com/Nikotine1/terramaster-fancontrol-IT8613E) - Fan control for the TerraMaster NAS with IT8613E chipset on Linux (e.g. F4-424) (3 weeks ago)
 - [brycebostwick/WidgetAnimation](https://github.com/brycebostwick/WidgetAnimation) - Proof of concept for Animated iOS Widgets using Public APIs (1 month ago)
 - [wesbos/bracket.engineer](https://github.com/wesbos/bracket.engineer) - Generate 3D printable power brick brackets. (1 month ago)
-- [siemens/sentry-auth-oidc](https://github.com/siemens/sentry-auth-oidc) - OpenID Connect SSO provider for Sentry (1 month ago)
+- [siemens/sentry-auth-oidc](https://github.com/siemens/sentry-auth-oidc) - OpenID Connect SSO provider for Sentry (2 months ago)
 - [cherryduck/BambuTagScanner](https://github.com/cherryduck/BambuTagScanner) - An Android app to scan, dump and save Bambu tags (4 months ago)
 
 
