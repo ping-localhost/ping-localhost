@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.4.0](https://github.com/gethomepage/homepage/releases/tag/v1.4.0), 1 day ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.4.0](https://github.com/gethomepage/homepage/releases/tag/v1.4.0), 2 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.01.01.52](https://github.com/bambulab/BambuStudio/releases/tag/v02.01.01.52), 1 month ago) - PC Software for BambuLab and other 3D printers
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 4 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 5 months ago) - Home Assistant Fixi Integration
@@ -56,9 +56,9 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 👯 Check out some of my recent followers
 
+- [stefanluth](https://github.com/stefanluth)
 - [standardgalactic](https://github.com/standardgalactic)
 - [rolox7](https://github.com/rolox7)
 - [Fascinatorx](https://github.com/Fascinatorx)
 - [manjit683](https://github.com/manjit683)
-- [eddypouw](https://github.com/eddypouw)
 
