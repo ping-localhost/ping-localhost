@@ -27,8 +27,8 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.4.5](https://github.com/gethomepage/homepage/releases/tag/v1.4.5), 5 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.02.00.85](https://github.com/bambulab/BambuStudio/releases/tag/v02.02.00.85), 6 days ago) - PC Software for BambuLab and other 3D printers
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.4.5](https://github.com/gethomepage/homepage/releases/tag/v1.4.5), 6 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.02.00.85](https://github.com/bambulab/BambuStudio/releases/tag/v02.02.00.85), 1 week ago) - PC Software for BambuLab and other 3D printers
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 6 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 6 months ago) - Home Assistant Fixi Integration
 
