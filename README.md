@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.02.01.60](https://github.com/bambulab/BambuStudio/releases/tag/v02.02.01.60), 1 day ago) - PC Software for BambuLab and other 3D printers
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.02.01.60](https://github.com/bambulab/BambuStudio/releases/tag/v02.02.01.60), 2 days ago) - PC Software for BambuLab and other 3D printers
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.4.6](https://github.com/gethomepage/homepage/releases/tag/v1.4.6), 1 week ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 6 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 7 months ago) - Home Assistant Fixi Integration
@@ -36,8 +36,8 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔨 My recent Pull Requests
 
-- [Renamed Auth to auth](https://github.com/txitxo0/googlefindmytools-homeassistant/pull/15) on [txitxo0/googlefindmytools-homeassistant](https://github.com/txitxo0/googlefindmytools-homeassistant) (1 day ago)
-- [Fixed incorrect clone URL](https://github.com/txitxo0/googlefindmytools-homeassistant/pull/14) on [txitxo0/googlefindmytools-homeassistant](https://github.com/txitxo0/googlefindmytools-homeassistant) (1 day ago)
+- [Renamed Auth to auth](https://github.com/txitxo0/googlefindmytools-homeassistant/pull/15) on [txitxo0/googlefindmytools-homeassistant](https://github.com/txitxo0/googlefindmytools-homeassistant) (2 days ago)
+- [Fixed incorrect clone URL](https://github.com/txitxo0/googlefindmytools-homeassistant/pull/14) on [txitxo0/googlefindmytools-homeassistant](https://github.com/txitxo0/googlefindmytools-homeassistant) (2 days ago)
 - [fix: feature request link for Panda Status](https://github.com/bigtreetech/docs/pull/74) on [bigtreetech/docs](https://github.com/bigtreetech/docs) (1 week ago)
 - [Added an extra ID card type and specified a passport type](https://github.com/ZeroPass/Port-documentation-and-tools/pull/13) on [ZeroPass/Port-documentation-and-tools](https://github.com/ZeroPass/Port-documentation-and-tools) (3 weeks ago)
 - [Added missing Belgium/French OID for SOD](https://github.com/ZeroPass/pymrtd/pull/8) on [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) (1 month ago)
