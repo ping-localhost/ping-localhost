@@ -7,9 +7,9 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) - Control your BigTreeTech Panda Status via Home Assistant (4 days ago)
+- [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) - Control your BigTreeTech Panda Status via Home Assistant (today)
 - [bigtreetech/docs](https://github.com/bigtreetech/docs) -  (2 weeks ago)
-- [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (4 weeks ago)
+- [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (1 month ago)
 - [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (2 months ago)
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (2 months ago)
 
@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([1.2.0-beta](https://github.com/ping-localhost/panda-status/releases/tag/1.2.0-beta), 2 days ago) - Control your BigTreeTech Panda Status via Home Assistant
+- [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([1.2.0](https://github.com/ping-localhost/panda-status/releases/tag/1.2.0), 1 day ago) - Control your BigTreeTech Panda Status via Home Assistant
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.02.01.60](https://github.com/bambulab/BambuStudio/releases/tag/v02.02.01.60), 1 week ago) - PC Software for BambuLab and other 3D printers
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 6 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 7 months ago) - Home Assistant Fixi Integration
@@ -36,11 +36,11 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔨 My recent Pull Requests
 
+- [dev: Improved setup a tiny bit more](https://github.com/ping-localhost/panda-status/pull/6) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (today)
+- [Update Integration to Version 1.2.0](https://github.com/ping-localhost/panda-status/pull/4) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (1 day ago)
 - [Renamed Auth to auth](https://github.com/txitxo0/googlefindmytools-homeassistant/pull/15) on [txitxo0/googlefindmytools-homeassistant](https://github.com/txitxo0/googlefindmytools-homeassistant) (1 week ago)
 - [Fixed incorrect clone URL](https://github.com/txitxo0/googlefindmytools-homeassistant/pull/14) on [txitxo0/googlefindmytools-homeassistant](https://github.com/txitxo0/googlefindmytools-homeassistant) (1 week ago)
 - [fix: feature request link for Panda Status](https://github.com/bigtreetech/docs/pull/74) on [bigtreetech/docs](https://github.com/bigtreetech/docs) (2 weeks ago)
-- [Added an extra ID card type and specified a passport type](https://github.com/ZeroPass/Port-documentation-and-tools/pull/13) on [ZeroPass/Port-documentation-and-tools](https://github.com/ZeroPass/Port-documentation-and-tools) (4 weeks ago)
-- [Added missing Belgium/French OID for SOD](https://github.com/ZeroPass/pymrtd/pull/8) on [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) (1 month ago)
 
 
 
@@ -56,9 +56,9 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 👯 Check out some of my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [stefanluth](https://github.com/stefanluth)
 - [standardgalactic](https://github.com/standardgalactic)
 - [rolox7](https://github.com/rolox7)
 - [Fascinatorx](https://github.com/Fascinatorx)
-- [manjit683](https://github.com/manjit683)
 
