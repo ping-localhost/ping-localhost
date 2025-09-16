@@ -7,7 +7,7 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (3 days ago)
+- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (4 days ago)
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) - Control your BigTreeTech Panda Status via Home Assistant (1 week ago)
 - [bigtreetech/docs](https://github.com/bigtreetech/docs) -  (3 weeks ago)
 - [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (1 month ago)
@@ -27,9 +27,9 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.02.02.56](https://github.com/bambulab/BambuStudio/releases/tag/v02.02.02.56), 1 day ago) - PC Software for BambuLab and other 3D printers
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([1.2.0](https://github.com/ping-localhost/panda-status/releases/tag/1.2.0), 1 week ago) - Control your BigTreeTech Panda Status via Home Assistant
-- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.02.01.60](https://github.com/bambulab/BambuStudio/releases/tag/v02.02.01.60), 2 weeks ago) - PC Software for BambuLab and other 3D printers
-- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 6 months ago) - Lovelace Companion card for sensor.seventeentrack
+- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 7 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 7 months ago) - Home Assistant Fixi Integration
 
 
