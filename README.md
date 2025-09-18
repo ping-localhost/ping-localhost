@@ -7,7 +7,7 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (5 days ago)
+- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (6 days ago)
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) - Control your BigTreeTech Panda Status via Home Assistant (1 week ago)
 - [bigtreetech/docs](https://github.com/bigtreetech/docs) -  (4 weeks ago)
 - [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (1 month ago)
@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.02.02.56](https://github.com/bambulab/BambuStudio/releases/tag/v02.02.02.56), 2 days ago) - PC Software for BambuLab and other 3D printers
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.02.02.56](https://github.com/bambulab/BambuStudio/releases/tag/v02.02.02.56), 3 days ago) - PC Software for BambuLab and other 3D printers
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([1.2.0](https://github.com/ping-localhost/panda-status/releases/tag/1.2.0), 1 week ago) - Control your BigTreeTech Panda Status via Home Assistant
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 7 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 7 months ago) - Home Assistant Fixi Integration
@@ -38,8 +38,8 @@ I'm a boring developer, who happens to do something, sometimes.
 
 - [dev: Improved setup a tiny bit more](https://github.com/ping-localhost/panda-status/pull/6) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (1 week ago)
 - [Update Integration to Version 1.2.0](https://github.com/ping-localhost/panda-status/pull/4) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (1 week ago)
-- [Renamed Auth to auth](https://github.com/txitxo0/googlefindmytools-homeassistant/pull/15) on [txitxo0/googlefindmytools-homeassistant](https://github.com/txitxo0/googlefindmytools-homeassistant) (2 weeks ago)
-- [Fixed incorrect clone URL](https://github.com/txitxo0/googlefindmytools-homeassistant/pull/14) on [txitxo0/googlefindmytools-homeassistant](https://github.com/txitxo0/googlefindmytools-homeassistant) (2 weeks ago)
+- [Renamed Auth to auth](https://github.com/txitxo0/googlefindmytools-homeassistant/pull/15) on [txitxo0/googlefindmytools-homeassistant](https://github.com/txitxo0/googlefindmytools-homeassistant) (3 weeks ago)
+- [Fixed incorrect clone URL](https://github.com/txitxo0/googlefindmytools-homeassistant/pull/14) on [txitxo0/googlefindmytools-homeassistant](https://github.com/txitxo0/googlefindmytools-homeassistant) (3 weeks ago)
 - [fix: feature request link for Panda Status](https://github.com/bigtreetech/docs/pull/74) on [bigtreetech/docs](https://github.com/bigtreetech/docs) (4 weeks ago)
 
 
