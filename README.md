@@ -28,7 +28,7 @@ I'm a boring developer, who happens to do something, sometimes.
 #### 🔭 Latest releases I've contributed to
 
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.02.02.56](https://github.com/bambulab/BambuStudio/releases/tag/v02.02.02.56), 2 weeks ago) - PC Software for BambuLab and other 3D printers
-- [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([1.2.0](https://github.com/ping-localhost/panda-status/releases/tag/1.2.0), 4 weeks ago) - Control your BigTreeTech Panda Status via Home Assistant
+- [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([1.2.0](https://github.com/ping-localhost/panda-status/releases/tag/1.2.0), 1 month ago) - Control your BigTreeTech Panda Status via Home Assistant
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 7 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 8 months ago) - Home Assistant Fixi Integration
 
@@ -37,7 +37,7 @@ I'm a boring developer, who happens to do something, sometimes.
 #### 🔨 My recent Pull Requests
 
 - [dev: Improved setup a tiny bit more](https://github.com/ping-localhost/panda-status/pull/6) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (4 weeks ago)
-- [Update Integration to Version 1.2.0](https://github.com/ping-localhost/panda-status/pull/4) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (4 weeks ago)
+- [Update Integration to Version 1.2.0](https://github.com/ping-localhost/panda-status/pull/4) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (1 month ago)
 - [Renamed Auth to auth](https://github.com/txitxo0/googlefindmytools-homeassistant/pull/15) on [txitxo0/googlefindmytools-homeassistant](https://github.com/txitxo0/googlefindmytools-homeassistant) (1 month ago)
 - [Fixed incorrect clone URL](https://github.com/txitxo0/googlefindmytools-homeassistant/pull/14) on [txitxo0/googlefindmytools-homeassistant](https://github.com/txitxo0/googlefindmytools-homeassistant) (1 month ago)
 - [fix: feature request link for Panda Status](https://github.com/bigtreetech/docs/pull/74) on [bigtreetech/docs](https://github.com/bigtreetech/docs) (1 month ago)
