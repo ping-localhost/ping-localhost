@@ -49,16 +49,16 @@ I'm a boring developer, who happens to do something, sometimes.
 - [RealDeco/xiaozhi-esphome](https://github.com/RealDeco/xiaozhi-esphome) - Alternative code to use xiaozhi ai devices in esphome/home assistant. (2 months ago)
 - [tr1plus/zabbix_truenas_SCALE_snmp](https://github.com/tr1plus/zabbix_truenas_SCALE_snmp) - Zabbix monitoring template for truenas scale 22.12.1 &amp; higher (3 months ago)
 - [Nikotine1/terramaster-fancontrol-IT8613E](https://github.com/Nikotine1/terramaster-fancontrol-IT8613E) - Fan control for the TerraMaster NAS with IT8613E chipset on Linux (e.g. F4-424) (4 months ago)
-- [brycebostwick/WidgetAnimation](https://github.com/brycebostwick/WidgetAnimation) - Proof of concept for Animated iOS Widgets using Public APIs (4 months ago)
+- [brycebostwick/WidgetAnimation](https://github.com/brycebostwick/WidgetAnimation) - Proof of concept for Animated iOS Widgets using Public APIs (5 months ago)
 - [wesbos/bracket.engineer](https://github.com/wesbos/bracket.engineer) - Generate 3D printable power brick brackets. (5 months ago)
 
 
 
 #### 👯 Check out some of my recent followers
 
-- [XiaomingX](https://github.com/XiaomingX)
 - [stefanluth](https://github.com/stefanluth)
 - [standardgalactic](https://github.com/standardgalactic)
 - [rolox7](https://github.com/rolox7)
 - [Fascinatorx](https://github.com/Fascinatorx)
+- [manjit683](https://github.com/manjit683)
 
