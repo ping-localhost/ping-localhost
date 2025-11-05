@@ -8,9 +8,9 @@ I'm a boring developer, who happens to do something, sometimes.
 #### 👷 Check out what I'm currently working on
 
 - [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (1 month ago)
-- [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) - Control your BigTreeTech Panda Status via Home Assistant (1 month ago)
+- [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) - Control your BigTreeTech Panda Status via Home Assistant (2 months ago)
 - [bigtreetech/docs](https://github.com/bigtreetech/docs) -  (2 months ago)
-- [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (2 months ago)
+- [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (3 months ago)
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (4 months ago)
 
 
@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.03.01.51](https://github.com/bambulab/BambuStudio/releases/tag/v02.03.01.51), 5 days ago) - PC Software for BambuLab and other 3D printers
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.03.01.51](https://github.com/bambulab/BambuStudio/releases/tag/v02.03.01.51), 6 days ago) - PC Software for BambuLab and other 3D printers
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([1.2.0](https://github.com/ping-localhost/panda-status/releases/tag/1.2.0), 2 months ago) - Control your BigTreeTech Panda Status via Home Assistant
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 8 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 9 months ago) - Home Assistant Fixi Integration
@@ -36,7 +36,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔨 My recent Pull Requests
 
-- [dev: Improved setup a tiny bit more](https://github.com/ping-localhost/panda-status/pull/6) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (1 month ago)
+- [dev: Improved setup a tiny bit more](https://github.com/ping-localhost/panda-status/pull/6) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (2 months ago)
 - [Update Integration to Version 1.2.0](https://github.com/ping-localhost/panda-status/pull/4) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (2 months ago)
 - [Renamed Auth to auth](https://github.com/txitxo0/googlefindmytools-homeassistant/pull/15) on [txitxo0/googlefindmytools-homeassistant](https://github.com/txitxo0/googlefindmytools-homeassistant) (2 months ago)
 - [Fixed incorrect clone URL](https://github.com/txitxo0/googlefindmytools-homeassistant/pull/14) on [txitxo0/googlefindmytools-homeassistant](https://github.com/txitxo0/googlefindmytools-homeassistant) (2 months ago)
