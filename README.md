@@ -11,7 +11,7 @@ I'm a boring developer, who happens to do something, sometimes.
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) - Control your BigTreeTech Panda Status via Home Assistant (2 months ago)
 - [bigtreetech/docs](https://github.com/bigtreetech/docs) -  (2 months ago)
 - [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (3 months ago)
-- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (4 months ago)
+- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) - Lovelace Companion card for sensor.seventeentrack (5 months ago)
 
 
 
@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.03.01.51](https://github.com/bambulab/BambuStudio/releases/tag/v02.03.01.51), 1 week ago) - PC Software for BambuLab and other 3D printers
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.03.01.51](https://github.com/bambulab/BambuStudio/releases/tag/v02.03.01.51), 2 weeks ago) - PC Software for BambuLab and other 3D printers
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([1.2.0](https://github.com/ping-localhost/panda-status/releases/tag/1.2.0), 2 months ago) - Control your BigTreeTech Panda Status via Home Assistant
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 8 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 9 months ago) - Home Assistant Fixi Integration
