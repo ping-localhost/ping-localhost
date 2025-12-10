@@ -46,11 +46,11 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### ⭐ Recent Stars
 
-- [pdxlocations/contact](https://github.com/pdxlocations/contact) - A Console UI for Meshtastic (6 days ago)
+- [pdxlocations/contact](https://github.com/pdxlocations/contact) - A Console UI for Meshtastic (1 week ago)
 - [RealDeco/xiaozhi-esphome](https://github.com/RealDeco/xiaozhi-esphome) - Alternative code to use xiaozhi ai devices in esphome/home assistant. (4 months ago)
 - [tr1plus/zabbix_truenas_SCALE_snmp](https://github.com/tr1plus/zabbix_truenas_SCALE_snmp) - Zabbix monitoring template for truenas scale 22.12.1 &amp; higher (5 months ago)
 - [Nikotine1/terramaster-fancontrol-IT8613E](https://github.com/Nikotine1/terramaster-fancontrol-IT8613E) - Fan control for the TerraMaster NAS with IT8613E chipset on Linux (e.g. F4-424) (6 months ago)
-- [brycebostwick/WidgetAnimation](https://github.com/brycebostwick/WidgetAnimation) - Proof of concept for Animated iOS Widgets using Public APIs (6 months ago)
+- [brycebostwick/WidgetAnimation](https://github.com/brycebostwick/WidgetAnimation) - Proof of concept for Animated iOS Widgets using Public APIs (7 months ago)
 
 
 
