@@ -27,7 +27,6 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) ([v02.04.00.70](https://github.com/bambulab/BambuStudio/releases/tag/v02.04.00.70), 3 weeks ago) - PC Software for BambuLab and other 3D printers
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([1.2.0](https://github.com/ping-localhost/panda-status/releases/tag/1.2.0), 3 months ago) - Control your BigTreeTech Panda Status via Home Assistant
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 9 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 10 months ago) - Home Assistant Fixi Integration
