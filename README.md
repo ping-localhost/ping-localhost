@@ -35,7 +35,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Property &#39;config_entry&#39; of &#39;OmadaOptionsFlowHandler&#39; object has no setter](https://github.com/zachcheatham/ha-omada/pull/147) on [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada) (3 days ago)
+- [fix: Property &#39;config_entry&#39; of &#39;OmadaOptionsFlowHandler&#39; object has no setter](https://github.com/zachcheatham/ha-omada/pull/147) on [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada) (4 days ago)
 - [dev: Improved setup a tiny bit more](https://github.com/ping-localhost/panda-status/pull/6) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (3 months ago)
 - [Update Integration to Version 1.2.0](https://github.com/ping-localhost/panda-status/pull/4) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (3 months ago)
 - [Renamed Auth to auth](https://github.com/txitxo0/googlefindmytools-homeassistant/pull/15) on [txitxo0/googlefindmytools-homeassistant](https://github.com/txitxo0/googlefindmytools-homeassistant) (3 months ago)
@@ -45,7 +45,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### ⭐ Recent Stars
 
-- [pdxlocations/contact](https://github.com/pdxlocations/contact) - A Console UI for Meshtastic (1 week ago)
+- [pdxlocations/contact](https://github.com/pdxlocations/contact) - A Console UI for Meshtastic (2 weeks ago)
 - [RealDeco/xiaozhi-esphome](https://github.com/RealDeco/xiaozhi-esphome) - Alternative code to use xiaozhi ai devices in esphome/home assistant. (4 months ago)
 - [tr1plus/zabbix_truenas_SCALE_snmp](https://github.com/tr1plus/zabbix_truenas_SCALE_snmp) - Zabbix monitoring template for truenas scale 22.12.1 &amp; higher (5 months ago)
 - [Nikotine1/terramaster-fancontrol-IT8613E](https://github.com/Nikotine1/terramaster-fancontrol-IT8613E) - Fan control for the TerraMaster NAS with IT8613E chipset on Linux (e.g. F4-424) (6 months ago)
