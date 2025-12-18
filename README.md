@@ -9,7 +9,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 - [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (3 weeks ago)
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) - Control your BigTreeTech Panda Status via Home Assistant (3 months ago)
-- [bigtreetech/docs](https://github.com/bigtreetech/docs) -  (3 months ago)
+- [bigtreetech/docs](https://github.com/bigtreetech/docs) -  (4 months ago)
 - [ZeroPass/Port-documentation-and-tools](https://github.com/ZeroPass/Port-documentation-and-tools) - Repository for PassID documentation, global issues and other utility tools. (4 months ago)
 - [ZeroPass/pymrtd](https://github.com/ZeroPass/pymrtd) - Python implementation of ICAO 9303 biometric passport standard (4 months ago)
 
@@ -35,7 +35,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Property &#39;config_entry&#39; of &#39;OmadaOptionsFlowHandler&#39; object has no setter](https://github.com/zachcheatham/ha-omada/pull/147) on [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada) (4 days ago)
+- [fix: Property &#39;config_entry&#39; of &#39;OmadaOptionsFlowHandler&#39; object has no setter](https://github.com/zachcheatham/ha-omada/pull/147) on [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada) (5 days ago)
 - [dev: Improved setup a tiny bit more](https://github.com/ping-localhost/panda-status/pull/6) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (3 months ago)
 - [Update Integration to Version 1.2.0](https://github.com/ping-localhost/panda-status/pull/4) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (3 months ago)
 - [Renamed Auth to auth](https://github.com/txitxo0/googlefindmytools-homeassistant/pull/15) on [txitxo0/googlefindmytools-homeassistant](https://github.com/txitxo0/googlefindmytools-homeassistant) (3 months ago)
