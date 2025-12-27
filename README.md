@@ -7,7 +7,7 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) - Control your BigTreeTech Panda Status via Home Assistant (1 day ago)
+- [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) - Control your BigTreeTech Panda Status via Home Assistant (2 days ago)
 - [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (1 month ago)
 - [bigtreetech/docs](https://github.com/bigtreetech/docs) -  (4 months ago)
 - [ZeroPass/Port-documentation-and-tools](https://github.com/ZeroPass/Port-documentation-and-tools) - Repository for PassID documentation, global issues and other utility tools. (4 months ago)
@@ -27,19 +27,19 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([1.3.1](https://github.com/ping-localhost/panda-status/releases/tag/1.3.1), 1 day ago) - Control your BigTreeTech Panda Status via Home Assistant
+- [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([1.3.1](https://github.com/ping-localhost/panda-status/releases/tag/1.3.1), 2 days ago) - Control your BigTreeTech Panda Status via Home Assistant
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 10 months ago) - Lovelace Companion card for sensor.seventeentrack
-- [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 10 months ago) - Home Assistant Fixi Integration
+- [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 11 months ago) - Home Assistant Fixi Integration
 
 
 
 #### 🔨 My recent Pull Requests
 
-- [Prepare version 1.3.1](https://github.com/ping-localhost/panda-status/pull/27) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (1 day ago)
-- [Update README with configuration URL details](https://github.com/ping-localhost/panda-status/pull/26) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (1 day ago)
-- [Update README with version info](https://github.com/ping-localhost/panda-status/pull/25) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (1 day ago)
-- [fix: URL in configuration help description](https://github.com/ping-localhost/panda-status/pull/24) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (1 day ago)
-- [fix: Issue template](https://github.com/ping-localhost/panda-status/pull/23) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (1 day ago)
+- [Prepare version 1.3.1](https://github.com/ping-localhost/panda-status/pull/27) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (2 days ago)
+- [Update README with configuration URL details](https://github.com/ping-localhost/panda-status/pull/26) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (2 days ago)
+- [Update README with version info](https://github.com/ping-localhost/panda-status/pull/25) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (2 days ago)
+- [fix: URL in configuration help description](https://github.com/ping-localhost/panda-status/pull/24) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (2 days ago)
+- [fix: Issue template](https://github.com/ping-localhost/panda-status/pull/23) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (2 days ago)
 
 
 
