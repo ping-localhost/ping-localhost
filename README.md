@@ -45,7 +45,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### ⭐ Recent Stars
 
-- [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (6 days ago)
+- [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (1 week ago)
 - [pdxlocations/contact](https://github.com/pdxlocations/contact) - A Console UI for Meshtastic (1 month ago)
 - [RealDeco/xiaozhi-esphome](https://github.com/RealDeco/xiaozhi-esphome) - Alternative code to use xiaozhi ai devices in esphome/home assistant. (5 months ago)
 - [tr1plus/zabbix_truenas_SCALE_snmp](https://github.com/tr1plus/zabbix_truenas_SCALE_snmp) - Zabbix monitoring template for truenas scale 22.12.1 &amp; higher (6 months ago)
@@ -55,9 +55,9 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 👯 Check out some of my recent followers
 
+- [rodrigogalura](https://github.com/rodrigogalura)
 - [stefanluth](https://github.com/stefanluth)
 - [standardgalactic](https://github.com/standardgalactic)
 - [rolox7](https://github.com/rolox7)
 - [Fascinatorx](https://github.com/Fascinatorx)
-- [manjit683](https://github.com/manjit683)
 
