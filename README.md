@@ -28,7 +28,7 @@ I'm a boring developer, who happens to do something, sometimes.
 #### 🔭 Latest releases I've contributed to
 
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([1.3.1](https://github.com/ping-localhost/panda-status/releases/tag/1.3.1), 2 weeks ago) - Control your BigTreeTech Panda Status via Home Assistant
-- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 10 months ago) - Lovelace Companion card for sensor.seventeentrack
+- [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 11 months ago) - Lovelace Companion card for sensor.seventeentrack
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 11 months ago) - Home Assistant Fixi Integration
 
 
