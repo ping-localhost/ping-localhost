@@ -29,7 +29,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([1.3.1](https://github.com/ping-localhost/panda-status/releases/tag/1.3.1), 1 month ago) - Control your BigTreeTech Panda Status via Home Assistant
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 11 months ago) - Lovelace Companion card for sensor.seventeentrack
-- [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 11 months ago) - Home Assistant Fixi Integration
+- [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 1 year ago) - Home Assistant Fixi Integration
 
 
 
@@ -46,7 +46,7 @@ I'm a boring developer, who happens to do something, sometimes.
 #### ⭐ Recent Stars
 
 - [eloylp/goomerang](https://github.com/eloylp/goomerang) - A small communications library based on protocol buffers over websockets (1 week ago)
-- [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (4 weeks ago)
+- [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (1 month ago)
 - [pdxlocations/contact](https://github.com/pdxlocations/contact) - A Console UI for Meshtastic (1 month ago)
 - [RealDeco/xiaozhi-esphome](https://github.com/RealDeco/xiaozhi-esphome) - Alternative code to use xiaozhi ai devices in esphome/home assistant. (5 months ago)
 - [tr1plus/zabbix_truenas_SCALE_snmp](https://github.com/tr1plus/zabbix_truenas_SCALE_snmp) - Zabbix monitoring template for truenas scale 22.12.1 &amp; higher (7 months ago)
