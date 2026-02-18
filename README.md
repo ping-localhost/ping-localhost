@@ -35,11 +35,11 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔨 My recent Pull Requests
 
-- [Added Symfony 8 support](https://github.com/Pyrrah/GravatarBundle/pull/21) on [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) (6 days ago)
+- [Added support for Symfony 8](https://github.com/florianv/symfony-swap/pull/59) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (1 day ago)
+- [Added Symfony 8 support](https://github.com/Pyrrah/GravatarBundle/pull/21) on [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) (1 week ago)
 - [Prepare version 1.3.1](https://github.com/ping-localhost/panda-status/pull/27) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (1 month ago)
 - [Update README with configuration URL details](https://github.com/ping-localhost/panda-status/pull/26) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (1 month ago)
 - [Update README with version info](https://github.com/ping-localhost/panda-status/pull/25) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (1 month ago)
-- [fix: URL in configuration help description](https://github.com/ping-localhost/panda-status/pull/24) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (1 month ago)
 
 
 
