@@ -36,7 +36,7 @@ I'm a boring developer, who happens to do something, sometimes.
 #### 🔨 My recent Pull Requests
 
 - [Added support for Symfony 8](https://github.com/florianv/symfony-swap/pull/59) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (2 weeks ago)
-- [Added Symfony 8 support](https://github.com/Pyrrah/GravatarBundle/pull/21) on [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) (2 weeks ago)
+- [Added Symfony 8 support](https://github.com/Pyrrah/GravatarBundle/pull/21) on [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) (3 weeks ago)
 - [Prepare version 1.3.1](https://github.com/ping-localhost/panda-status/pull/27) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (2 months ago)
 - [Update README with configuration URL details](https://github.com/ping-localhost/panda-status/pull/26) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (2 months ago)
 - [Update README with version info](https://github.com/ping-localhost/panda-status/pull/25) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (2 months ago)
