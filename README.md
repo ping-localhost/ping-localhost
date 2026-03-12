@@ -7,7 +7,7 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (6 days ago)
+- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (1 week ago)
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) - :euro: Currency exchange rates for Symfony (3 weeks ago)
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) - Control your BigTreeTech Panda Status via Home Assistant (2 months ago)
 - [bigtreetech/docs](https://github.com/bigtreetech/docs) -  (6 months ago)
@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([6.0.0](https://github.com/florianv/symfony-swap/releases/tag/6.0.0), 2 days ago) - :euro: Currency exchange rates for Symfony
+- [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([6.0.0](https://github.com/florianv/symfony-swap/releases/tag/6.0.0), 3 days ago) - :euro: Currency exchange rates for Symfony
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([1.3.1](https://github.com/ping-localhost/panda-status/releases/tag/1.3.1), 2 months ago) - Control your BigTreeTech Panda Status via Home Assistant
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 1 year ago) - Lovelace Companion card for sensor.seventeentrack
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 1 year ago) - Home Assistant Fixi Integration
@@ -36,8 +36,8 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔨 My recent Pull Requests
 
-- [Added support for Symfony 8](https://github.com/florianv/symfony-swap/pull/61) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (2 days ago)
-- [Symfony 8 &#43; Resolve deprecation](https://github.com/sfmok/request-input-bundle/pull/23) on [sfmok/request-input-bundle](https://github.com/sfmok/request-input-bundle) (6 days ago)
+- [Added support for Symfony 8](https://github.com/florianv/symfony-swap/pull/61) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (3 days ago)
+- [Symfony 8 &#43; Resolve deprecation](https://github.com/sfmok/request-input-bundle/pull/23) on [sfmok/request-input-bundle](https://github.com/sfmok/request-input-bundle) (1 week ago)
 - [Added support for Symfony 8](https://github.com/florianv/symfony-swap/pull/59) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (3 weeks ago)
 - [Added Symfony 8 support](https://github.com/Pyrrah/GravatarBundle/pull/21) on [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) (4 weeks ago)
 - [Prepare version 1.3.1](https://github.com/ping-localhost/panda-status/pull/27) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (2 months ago)
