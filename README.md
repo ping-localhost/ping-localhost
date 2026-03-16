@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([6.0.0](https://github.com/florianv/symfony-swap/releases/tag/6.0.0), 6 days ago) - :euro: Currency exchange rates for Symfony
+- [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([6.0.0](https://github.com/florianv/symfony-swap/releases/tag/6.0.0), 1 week ago) - :euro: Currency exchange rates for Symfony
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([1.3.1](https://github.com/ping-localhost/panda-status/releases/tag/1.3.1), 2 months ago) - Control your BigTreeTech Panda Status via Home Assistant
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 1 year ago) - Lovelace Companion card for sensor.seventeentrack
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 1 year ago) - Home Assistant Fixi Integration
@@ -36,7 +36,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔨 My recent Pull Requests
 
-- [Added support for Symfony 8](https://github.com/florianv/symfony-swap/pull/61) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (6 days ago)
+- [Added support for Symfony 8](https://github.com/florianv/symfony-swap/pull/61) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (1 week ago)
 - [Symfony 8 &#43; Resolve deprecation](https://github.com/sfmok/request-input-bundle/pull/23) on [sfmok/request-input-bundle](https://github.com/sfmok/request-input-bundle) (1 week ago)
 - [Added support for Symfony 8](https://github.com/florianv/symfony-swap/pull/59) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (3 weeks ago)
 - [Added Symfony 8 support](https://github.com/Pyrrah/GravatarBundle/pull/21) on [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) (1 month ago)
@@ -46,7 +46,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### ⭐ Recent Stars
 
-- [eloylp/goomerang](https://github.com/eloylp/goomerang) - A small communications library based on protocol buffers over websockets (1 month ago)
+- [eloylp/goomerang](https://github.com/eloylp/goomerang) - A small communications library based on protocol buffers over websockets (2 months ago)
 - [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (2 months ago)
 - [pdxlocations/contact](https://github.com/pdxlocations/contact) - A Console UI for Meshtastic (3 months ago)
 - [RealDeco/xiaozhi-esphome](https://github.com/RealDeco/xiaozhi-esphome) - Alternative code to use xiaozhi ai devices in esphome/home assistant. (7 months ago)
