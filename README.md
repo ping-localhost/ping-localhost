@@ -8,7 +8,7 @@ I'm a boring developer, who happens to do something, sometimes.
 #### 👷 Check out what I'm currently working on
 
 - [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (1 week ago)
-- [florianv/symfony-swap](https://github.com/florianv/symfony-swap) - :euro: Currency exchange rates for Symfony (3 weeks ago)
+- [florianv/symfony-swap](https://github.com/florianv/symfony-swap) - :euro: Currency exchange rates for Symfony (4 weeks ago)
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) - Control your BigTreeTech Panda Status via Home Assistant (2 months ago)
 - [bigtreetech/docs](https://github.com/bigtreetech/docs) -  (6 months ago)
 - [ZeroPass/Port-documentation-and-tools](https://github.com/ZeroPass/Port-documentation-and-tools) - Repository for PassID documentation, global issues and other utility tools. (7 months ago)
@@ -38,7 +38,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 - [Added support for Symfony 8](https://github.com/florianv/symfony-swap/pull/61) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (1 week ago)
 - [Symfony 8 &#43; Resolve deprecation](https://github.com/sfmok/request-input-bundle/pull/23) on [sfmok/request-input-bundle](https://github.com/sfmok/request-input-bundle) (1 week ago)
-- [Added support for Symfony 8](https://github.com/florianv/symfony-swap/pull/59) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (3 weeks ago)
+- [Added support for Symfony 8](https://github.com/florianv/symfony-swap/pull/59) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (4 weeks ago)
 - [Added Symfony 8 support](https://github.com/Pyrrah/GravatarBundle/pull/21) on [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) (1 month ago)
 - [Prepare version 1.3.1](https://github.com/ping-localhost/panda-status/pull/27) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (2 months ago)
 
