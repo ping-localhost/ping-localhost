@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([6.0.0](https://github.com/florianv/symfony-swap/releases/tag/6.0.0), 4 weeks ago) - :euro: Currency exchange rates for Symfony
+- [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([6.0.0](https://github.com/florianv/symfony-swap/releases/tag/6.0.0), 1 month ago) - :euro: Currency exchange rates for Symfony
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([1.3.1](https://github.com/ping-localhost/panda-status/releases/tag/1.3.1), 3 months ago) - Control your BigTreeTech Panda Status via Home Assistant
 - [ping-localhost/seventeen-track-card](https://github.com/ping-localhost/seventeen-track-card) ([v1.2.0](https://github.com/ping-localhost/seventeen-track-card/releases/tag/v1.2.0), 1 year ago) - Lovelace Companion card for sensor.seventeentrack
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) ([v0.0.1](https://github.com/ping-localhost/fixi/releases/tag/v0.0.1), 1 year ago) - Home Assistant Fixi Integration
@@ -36,7 +36,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔨 My recent Pull Requests
 
-- [Added support for Symfony 8](https://github.com/florianv/symfony-swap/pull/61) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (4 weeks ago)
+- [Added support for Symfony 8](https://github.com/florianv/symfony-swap/pull/61) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (1 month ago)
 - [Symfony 8 &#43; Resolve deprecation](https://github.com/sfmok/request-input-bundle/pull/23) on [sfmok/request-input-bundle](https://github.com/sfmok/request-input-bundle) (1 month ago)
 - [Added support for Symfony 8](https://github.com/florianv/symfony-swap/pull/59) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (1 month ago)
 - [Added Symfony 8 support](https://github.com/Pyrrah/GravatarBundle/pull/21) on [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) (1 month ago)
