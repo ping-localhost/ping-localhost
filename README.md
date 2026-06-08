@@ -7,7 +7,7 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (3 weeks ago)
+- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (4 weeks ago)
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) - Drop-in Symfony bundle for currency conversion: configurable services, multi-provider exchange rates with fallback and caching. (3 months ago)
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) - Control your BigTreeTech Panda Status via Home Assistant (5 months ago)
 - [bigtreetech/docs](https://github.com/bigtreetech/docs) -  (9 months ago)
@@ -45,11 +45,11 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### ⭐ Recent Stars
 
+- [mafradon/GTACTW-Port](https://github.com/mafradon/GTACTW-Port) - Gta Chinatown Wars Port for the R36 Linux Handheld (1 day ago)
 - [eloylp/goomerang](https://github.com/eloylp/goomerang) - A small communications library based on protocol buffers over websockets (4 months ago)
 - [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (5 months ago)
 - [pdxlocations/contact](https://github.com/pdxlocations/contact) - A curses-based console UI for Meshtastic, providing mesh chat, and device configuration from the terminal. (6 months ago)
 - [RealDeco/xiaozhi-esphome](https://github.com/RealDeco/xiaozhi-esphome) - Alternative code to use xiaozhi ai devices in esphome/home assistant. (10 months ago)
-- [tr1plus/zabbix_truenas_SCALE_snmp](https://github.com/tr1plus/zabbix_truenas_SCALE_snmp) - Zabbix monitoring template for truenas scale 22.12.1 &amp; higher (11 months ago)
 
 
 
