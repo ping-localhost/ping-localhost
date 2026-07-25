@@ -10,8 +10,8 @@ I'm a boring developer, who happens to do something, sometimes.
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) - Control your BigTreeTech Panda Status via Home Assistant (1 month ago)
 - [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (2 months ago)
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) - Drop-in Symfony bundle for currency conversion: configurable services, multi-provider exchange rates with fallback and caching. (5 months ago)
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 6.4 to 8.x (5 months ago)
 - [bigtreetech/docs](https://github.com/bigtreetech/docs) -  (11 months ago)
-- [ZeroPass/Port-documentation-and-tools](https://github.com/ZeroPass/Port-documentation-and-tools) - Repository for PassID documentation, global issues and other utility tools. (11 months ago)
 
 
 
@@ -27,6 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.6.0](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.6.0), 1 day ago) - Pyrrah Gravatar Bundle for Symfony 6.4 to 8.x
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([2.0.0](https://github.com/ping-localhost/panda-status/releases/tag/2.0.0), 1 month ago) - Control your BigTreeTech Panda Status via Home Assistant
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([6.0.0](https://github.com/florianv/symfony-swap/releases/tag/6.0.0), 4 months ago) - Drop-in Symfony bundle for currency conversion: configurable services, multi-provider exchange rates with fallback and caching.
 
@@ -46,7 +47,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 - [mafradon/GTACTW-Port-R36s](https://github.com/mafradon/GTACTW-Port-R36s) - Gta Chinatown Wars Port for the R36 Linux Handheld (1 month ago)
 - [eloylp/goomerang](https://github.com/eloylp/goomerang) - A small communications library based on protocol buffers over websockets (6 months ago)
-- [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (6 months ago)
+- [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (7 months ago)
 - [pdxlocations/contact](https://github.com/pdxlocations/contact) - A curses-based console UI for Meshtastic, providing mesh chat, and device configuration from the terminal. (7 months ago)
 - [RealDeco/xiaozhi-esphome](https://github.com/RealDeco/xiaozhi-esphome) - Alternative code to use xiaozhi ai devices in esphome/home assistant. (11 months ago)
 
@@ -54,9 +55,9 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 👯 Check out some of my recent followers
 
+- [gitbackhub-cpu](https://github.com/gitbackhub-cpu)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [stefanluth](https://github.com/stefanluth)
 - [standardgalactic](https://github.com/standardgalactic)
 - [rolox7](https://github.com/rolox7)
-- [Fascinatorx](https://github.com/Fascinatorx)
 
