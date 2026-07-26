@@ -27,7 +27,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.6.0](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.6.0), 1 day ago) - Pyrrah Gravatar Bundle for Symfony 6.4 to 8.x
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.6.0](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.6.0), 2 days ago) - Pyrrah Gravatar Bundle for Symfony 6.4 to 8.x
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([2.0.0](https://github.com/ping-localhost/panda-status/releases/tag/2.0.0), 1 month ago) - Control your BigTreeTech Panda Status via Home Assistant
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([6.0.0](https://github.com/florianv/symfony-swap/releases/tag/6.0.0), 4 months ago) - Drop-in Symfony bundle for currency conversion: configurable services, multi-provider exchange rates with fallback and caching.
 
