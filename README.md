@@ -17,11 +17,11 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 🌱 My latest projects
 
-- [ping-localhost/tickrmeter-stack](https://github.com/ping-localhost/tickrmeter-stack) - 
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) - Control your BigTreeTech Panda Status via Home Assistant
 - [ping-localhost/vuln-check-reproducible](https://github.com/ping-localhost/vuln-check-reproducible) - False positive for GO-2025-3408
 - [ping-localhost/fixi](https://github.com/ping-localhost/fixi) - Home Assistant Fixi Integration
 - [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent
+- [ping-localhost/foobar](https://github.com/ping-localhost/foobar) - minimal reproducible example for golangci-lint
 
 
 
