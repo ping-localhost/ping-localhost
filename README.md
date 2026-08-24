@@ -11,7 +11,6 @@ I'm a boring developer, who happens to do something, sometimes.
 - [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (3 months ago)
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) - Drop-in Symfony bundle for currency conversion: configurable services, multi-provider exchange rates with fallback and caching. (6 months ago)
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 6.4 to 8.x (6 months ago)
-- [bigtreetech/docs](https://github.com/bigtreetech/docs) -  (1 year ago)
 
 
 
@@ -47,7 +46,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 - [mafradon/GTACTW-Port-R36s](https://github.com/mafradon/GTACTW-Port-R36s) - Gta Chinatown Wars Port for the R36 Linux Handheld (2 months ago)
 - [eloylp/goomerang](https://github.com/eloylp/goomerang) - A small communications library based on protocol buffers over websockets (7 months ago)
-- [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (7 months ago)
+- [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (8 months ago)
 - [pdxlocations/contact](https://github.com/pdxlocations/contact) - A curses-based console UI for Meshtastic, providing mesh chat, and device configuration from the terminal. (8 months ago)
 - [RealDeco/xiaozhi-esphome](https://github.com/RealDeco/xiaozhi-esphome) - Alternative code to use xiaozhi ai devices in esphome/home assistant. (1 year ago)
 
