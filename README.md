@@ -44,7 +44,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### ⭐ Recent Stars
 
-- [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself! (2 days ago)
+- [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself! (3 days ago)
 - [mafradon/GTACTW-Port-R36s](https://github.com/mafradon/GTACTW-Port-R36s) - Gta Chinatown Wars Port for the R36 Linux Handheld (3 months ago)
 - [eloylp/goomerang](https://github.com/eloylp/goomerang) - A small communications library based on protocol buffers over websockets (8 months ago)
 - [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (8 months ago)
