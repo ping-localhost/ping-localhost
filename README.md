@@ -28,14 +28,14 @@ I'm a boring developer, who happens to do something, sometimes.
 
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.6.0](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.6.0), 2 months ago) - Pyrrah Gravatar Bundle for Symfony 6.4 to 8.x
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) ([2.0.0](https://github.com/ping-localhost/panda-status/releases/tag/2.0.0), 3 months ago) - Control your BigTreeTech Panda Status via Home Assistant
-- [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([6.0.0](https://github.com/florianv/symfony-swap/releases/tag/6.0.0), 6 months ago) - Drop-in Symfony bundle for currency conversion: configurable services, multi-provider exchange rates with fallback and caching.
+- [florianv/symfony-swap](https://github.com/florianv/symfony-swap) ([6.0.0](https://github.com/florianv/symfony-swap/releases/tag/6.0.0), 7 months ago) - Drop-in Symfony bundle for currency conversion: configurable services, multi-provider exchange rates with fallback and caching.
 
 
 
 #### 🔨 My recent Pull Requests
 
 - [ai: Force upgrade to 2026](https://github.com/ping-localhost/panda-status/pull/41) on [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) (3 months ago)
-- [Added support for Symfony 8](https://github.com/florianv/symfony-swap/pull/61) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (6 months ago)
+- [Added support for Symfony 8](https://github.com/florianv/symfony-swap/pull/61) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (7 months ago)
 - [Symfony 8 &#43; Resolve deprecation](https://github.com/sfmok/request-input-bundle/pull/23) on [sfmok/request-input-bundle](https://github.com/sfmok/request-input-bundle) (7 months ago)
 - [Added support for Symfony 8](https://github.com/florianv/symfony-swap/pull/59) on [florianv/symfony-swap](https://github.com/florianv/symfony-swap) (7 months ago)
 - [Added Symfony 8 support](https://github.com/Pyrrah/GravatarBundle/pull/21) on [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) (7 months ago)
@@ -45,7 +45,7 @@ I'm a boring developer, who happens to do something, sometimes.
 #### ⭐ Recent Stars
 
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself! (3 weeks ago)
-- [mafradon/GTACTW-Port-R36s](https://github.com/mafradon/GTACTW-Port-R36s) - Gta Chinatown Wars Port for the R36 Linux Handheld (3 months ago)
+- [mafradon/GTACTW-Port-R36s](https://github.com/mafradon/GTACTW-Port-R36s) - Gta Chinatown Wars Port for the R36 Linux Handheld (4 months ago)
 - [eloylp/goomerang](https://github.com/eloylp/goomerang) - A small communications library based on protocol buffers over websockets (8 months ago)
 - [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (9 months ago)
 - [pdxlocations/contact](https://github.com/pdxlocations/contact) - A curses-based console UI for Meshtastic, providing mesh chat, and device configuration from the terminal. (10 months ago)
