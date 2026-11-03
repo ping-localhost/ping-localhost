@@ -7,7 +7,7 @@ I'm a boring developer, who happens to do something, sometimes.
 ---
 #### 👷 Check out what I'm currently working on
 
-- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (4 days ago)
+- [ping-localhost/zabbix-agent](https://github.com/ping-localhost/zabbix-agent) - Automates the installation and configuration of the Zabbix agent (5 days ago)
 - [ping-localhost/panda-status](https://github.com/ping-localhost/panda-status) - Control your BigTreeTech Panda Status via Home Assistant (4 months ago)
 - [florianv/symfony-swap](https://github.com/florianv/symfony-swap) - Drop-in Symfony bundle for currency conversion: configurable services, multi-provider exchange rates with fallback and caching. (8 months ago)
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 6.4 to 8.x (8 months ago)
@@ -44,7 +44,7 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### ⭐ Recent Stars
 
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (1 week ago)
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (2 weeks ago)
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself! (1 month ago)
 - [mafradon/GTACTW-Port-R36s](https://github.com/mafradon/GTACTW-Port-R36s) - Gta Chinatown Wars Port for the R36 Linux Handheld (4 months ago)
 - [eloylp/goomerang](https://github.com/eloylp/goomerang) - A small communications library based on protocol buffers over websockets (9 months ago)
