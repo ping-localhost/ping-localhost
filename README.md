@@ -54,9 +54,9 @@ I'm a boring developer, who happens to do something, sometimes.
 
 #### 👯 Check out some of my recent followers
 
-- [yumiaura](https://github.com/yumiaura)
 - [gitbackhub-cpu](https://github.com/gitbackhub-cpu)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [stefanluth](https://github.com/stefanluth)
 - [standardgalactic](https://github.com/standardgalactic)
+- [rolox7](https://github.com/rolox7)
 
